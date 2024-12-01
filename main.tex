@@ -1,0 +1,324 @@
+\documentclass[a4paper, 12pt]{report}
+\usepackage{fontspec}
+\setmainfont{Times New Roman}
+% \usepackage[utf8]{vietnam,inputenc}
+% \usepackage[utf8]{inputenc}
+% \usepackage[T5]{fontenc}
+
+
+\DeclareTextSymbolDefault{\DH}{T1}
+
+\usepackage{float}
+
+
+
+\usepackage{nomencl,etoolbox,ragged2e,siunitx}
+\usepackage{indentfirst, caption}
+\usepackage{listings}
+\usepackage{subcaption}
+% \usepackage[final]{graphicx}
+\usepackage{graphicx}
+\usepackage[export]{adjustbox}
+\usepackage[unicode,breaklinks]{hyperref}
+\hypersetup{
+    urlcolor=blue,
+    linkcolor=black,
+    citecolor=blue,
+    colorlinks=true
+} 
+\usepackage[acronym]{glossaries}
+
+
+% table vertical
+\usepackage{lscape}
+
+\renewcommand{\chaptername}{Chương}
+\renewcommand{\contentsname}{Mục lục}
+\renewcommand{\acronymname}{Danh mục viết tắt}
+\makenomenclature
+\usepackage{a4wide,amssymb,epsfig,latexsym,array,float,hhline,fancyhdr}
+\usepackage[normalem]{ulem}
+\usepackage[makeroom]{cancel}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{multicol,longtable,amscd}
+\usepackage{diagbox}%Make diagonal lines in tables
+\usepackage[table,xcdraw,dvipsnames]{xcolor}
+\usepackage{booktabs}
+\usepackage{tikz}
+\usepackage{pgf-pie}
+\usepackage{rotating}
+\usepackage{alltt}
+\usepackage[framemethod=tikz]{mdframed}% For highlighting paragraph backgrounds
+\usepackage{caption,subcaption}
+\usepackage{tablefootnote}
+
+\usepackage{lastpage}
+\usepackage{enumitem}
+\usepackage{color}
+\usepackage{graphicx}							% Standard graphics package
+\usepackage{array}
+\usepackage{tabularx, caption}
+\usepackage{multirow}
+\usepackage{multicol}
+\usepackage{rotating}
+\usepackage{graphics}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{epsfig}
+\usepackage{tikz}
+\usetikzlibrary{arrows,backgrounds}
+% \usepackage[ruled,vlined]{algorithm2e}
+\usepackage{subfiles}
+\usepackage{algorithm}
+\usepackage{algpseudocode}
+
+
+%%%%% CROSSREF BIB
+% \def\biblio{\bibliographystyle{amsalpha}\bibliography{bibgraf}\textbf{}} 
+
+%\usepackage{pstcol} 								% PSTricks with the standard color package
+
+\AtBeginDocument{\addtocontents{toc}{\protect\thispagestyle{empty}}} 
+
+\AtBeginDocument{%
+  \renewcommand\lstlistlistingname{Danh sách lệnh}
+  \renewcommand\lstlistingname{Mã lệnh}
+  
+  \renewcommand\listtablename{Danh sách bảng}
+  \renewcommand\tablename{Bảng}
+
+  
+\renewcommand{\listfigurename}{Danh sách hình vẽ}
+\renewcommand{\figurename}{Hình}
+}
+
+\usepackage[normalem]{ulem}
+\patchcmd{\chapter}{plain}{empty}{}{}
+\patchcmd{\part}{plain}{empty}{}{}
+
+\def\thesislayout{% A4: 210 × 297
+	\geometry{
+		a4paper,
+		% total={160mm,240mm},  % fix over page
+		left=30mm,
+		right=20mm,
+		top=25mm,
+		bottom=20mm
+	}
+}
+\thesislayout
+
+\usepackage{fancyvrb}
+\setlength{\headheight}{40pt}
+\pagestyle{fancy}
+\fancyhead{} % clear all header fields
+
+\fancyhead[L]{
+    \begin{tabular}{rl}
+        \begin{picture}(10,0)(0,8)
+            \includegraphics[width=8mm, height=8mm]{images/logoBK.jpg}
+        \end{picture}&
+        
+        \begin{tabular}{l}
+    	Đại học Quốc gia TP.HCM - Trường Đại Học Bách Khoa\\
+    	Khoa Khoa học và Kỹ thuật Máy tính
+        \end{tabular} 	
+    \end{tabular}
+}
+\fancyfoot{} % clear all footer fields
+\fancyfoot[L]{\footnotesize Đồ án tốt nghiệp}
+\fancyfoot[R]{\footnotesize Trang {\thepage}/\pageref{lastPage}}
+\renewcommand{\headrulewidth}{0.3pt}
+\renewcommand{\footrulewidth}{0.3pt}
+
+
+%%%
+\setcounter{secnumdepth}{4}
+\makeatletter
+\newcounter {subsubsubsection}[subsubsection]
+\renewcommand\thesubsubsubsection{\thesubsubsection .\@alph\c@subsubsubsection}
+\newcommand\subsubsubsection{\@startsection{subsubsubsection}{4}{\z@}%
+                                     {-3.25ex\@plus -1ex \@minus -.2ex}%
+                                     {1.5ex \@plus .2ex}%
+                                     {\normalfont\normalsize\bfseries}}
+\newcommand*\l@subsubsubsection{\@dottedtocline{3}{10.0em}{4.1em}}
+\newcommand*{\subsubsubsectionmark}[1]{}
+\def\toclevel@subsubsubsection{5}
+\makeatother
+
+% \everymath{\color{blue}}%make in-line maths symbols blue to read/check easily
+
+\sloppy
+\captionsetup[figure]{labelfont={small,bf},textfont={small,it},belowskip=-1pt,aboveskip=-9pt}
+%space remove between caption, figure, and text
+\captionsetup[table]{labelfont={small,bf},textfont={small,it},belowskip=-1pt,aboveskip=7pt}
+
+
+
+\setlength{\floatsep}{5pt plus 2pt minus 2pt}
+\setlength{\textfloatsep}{5pt plus 2pt minus 2pt}
+\setlength{\intextsep}{10pt plus 2pt minus 2pt}
+
+\thesislayout
+%code
+\usepackage{color} % tô màu cho code
+\definecolor{dkgreen}{rgb}{0,0.6,0}
+\definecolor{gray}{rgb}{0.5,0.5,0.5}
+\definecolor{mauve}{rgb}{0.58,0,0.82}
+
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+
+\lstset{
+language=XML,
+    aboveskip=3mm,
+    belowskip=3mm,
+    columns=flexible,
+    backgroundcolor=\color{backcolour},   
+    commentstyle=\color{codegreen},
+    keywordstyle=\color{magenta},
+    numberstyle=\tiny\color{codegray},
+    stringstyle=\color{codepurple},
+    basicstyle=\ttfamily\footnotesize,
+    breakatwhitespace=false,         
+    breaklines=true,                 
+    captionpos=b,                    
+    keepspaces=true,                 
+    numbers=left,                    
+    numbersep=5pt,                  
+    showspaces=false,                
+    showstringspaces=false,
+    showtabs=false,                  
+    tabsize=2,
+    otherkeywords = {!,!=,~,\$,*,\&,\%/\%,\%*\%,\%\%, \%in\%,<-,<<-,/},
+    alsoletter={.,_}
+}
+
+
+
+% Glossary
+\makeglossaries
+\input{Bibliocosas/glossary.tex}
+\setstretch{1.25}
+
+
+
+
+
+\begin{document}
+
+\input{Bibliocosas/titlepage}
+
+%%%%% MARKUP BEGIN CHUONG 0 %%%%%%%%%%%%%
+\pagestyle{empty}
+% TODO: đánh số i ii
+\pagenumbering{roman}
+
+
+
+\chapter*{Lời cam đoan}
+\input{chapters/0. Mở đầu/loicamdoan.tex}
+
+\chapter*{Lời cảm ơn}
+\input{chapters/0. Mở đầu/loicamon.tex}
+
+\chapter*{Tóm tắt đề tài}
+\input{chapters/0. Mở đầu/tomtat.tex}
+
+% Mục lục
+\tableofcontents
+
+% Danh sách bảng
+\listoftables%[title={Danh sách bảng}]
+
+% Danh sách hình vẽ
+\listoffigures%[til.101 \msg_fatal:nn {fontspec} {cannot-use-pdftex}tle={Danh sách hình vẽ}]
+
+% Danh sách code
+% \lstlistoflistings%[title={Danh sách lệnh}]
+
+% Danh mục viết tắt
+\printglossary[type=\acronymtype,title={Danh mục viết tắt}]
+%%%%% MARKUP END CHUONG 0 %%%%%%%%%%%%%
+
+\newpage
+\pagestyle{fancy}
+\pagenumbering{arabic}
+
+%%%%% MARKUP BEGIN CHUONG 1 %%%%%%%%%%%%%
+\chapter{Tổng quan về đề tài}\label{chap:overview}
+% Cần phải set riêng cho từng chương vì đã set page style cho chapter là empty ở \patchcmd{\chapter}{plain}{empty}{}{}
+\thispagestyle{fancy} % show footer for chaper page
+
+\textit{Nội dung chương 1 trình bày sơ lược về đề tài, bối cảnh hiện nay và làm rõ lý do đề tài được chọn. Từ đó, xác định mục tiêu cần đạt được khi thực hiện và phạm vi của đề tài.}
+
+\import{chapters/1. Tổng quan/}{main.tex}
+%%%%% MARKUP END CHUONG 1 %%%%%%%%%%%%%
+
+%%%%% MARKUP BEGIN CHUONG 2 %%%%%%%%%%%%%
+\chapter{Nền tảng lý thuyết (Background) và Các nghiên cứu liên quan (Related work)}\label{chap:chap2}
+\thispagestyle{fancy} % show footer for chaper page
+
+\textit{Chương 2 đề cập tới các khái niệm và nền tảng lý thuyết được sử dụng để xây dựng hệ thống và phân tích các nghiên cứu liên quan.}
+
+\import{chapters/2. Nền tảng lý thuyết (Background) và Các nghiên cứu liên quan (Related work)/}{main.tex}
+%%%%% MARKUP END CHUONG 2 %%%%%%%%%%%%%
+
+%%%%% MARKUP BEGIN CHUONG 3 %%%%%%%%%%%%%
+\chapter{Phương pháp thực hiện}\label{chap:chap3}
+\thispagestyle{fancy} % show footer for chaper page
+
+\textit{Chương 3 .}
+
+\import{chapters/3. Phương pháp thực hiện/}{main.tex}
+%%%%% MARKUP END CHUONG 3 %%%%%%%%%%%%%
+
+%%%%% MARKUP BEGIN CHUONG 4 %%%%%%%%%%%%%
+\chapter{Thiết kế hệ thống}\label{chap:chap4}
+\thispagestyle{fancy} % show footer for chaper page
+
+\textit{Chương 4 .}
+
+\import{chapters/4. Thiết kế hệ thống/}{main.tex}
+%%%%% MARKUP END CHUONG 3 %%%%%%%%%%%%%
+
+%%%%% MARKUP BEGIN CHUONG 5 %%%%%%%%%%%%%
+\chapter{Hiện thực hệ thống}\label{chap:chap5}
+\thispagestyle{fancy} % show footer for chaper page
+
+\textit{Chương 5 .}
+
+\import{chapters/5. Hiện thực hệ thống/}{main.tex}
+%%%%% MARKUP END CHUONG 5 %%%%%%%%%%%%%
+
+%%%%% MARKUP BEGIN CHUONG 6 %%%%%%%%%%%%%
+\chapter{Đánh giá kết quả}\label{chap:chap6}
+\thispagestyle{fancy} % show footer for chaper page
+
+\textit{Chương 6 thể hiện quá trình tiến hành đánh giá kết quả dựa trên việc khảo sát trực tiếp ngẫu nhiên 100 bạn sinh viên tại trường đại học Bách Khoa và thu được những kết quả bước đầu hết sức khả quan.}
+
+\import{chapters/6. Đánh giá kết quả/}{main.tex}
+%%%%% MARKUP END CHUONG 6 %%%%%%%%%%%%%
+
+%%%%% MARKUP BEGIN CHUONG 7 %%%%%%%%%%%%%
+\chapter{Tổng kết} \label{chap:summary}
+\thispagestyle{fancy} % show footer for chaper page
+
+\textit{Nội dung chương \ref{chap:summary} trình bày đánh giá về quá trình hiện thực đồ án tốt nghiệp đối với các mục tiêu đề ra và đánh giá ưu, nhược điểm của hệ thống đã xây dựng. Từ đó thảo luận các hướng phát triển trong tương lai tiếp tục để cải thiện.}
+
+\import{chapters/7. Tổng kết/}{main.tex}
+%%%%% MARKUP END CHUONG 7 %%%%%%%%%%%%%
+
+%%%%% MARKUP BEGIN PHU LUC %%%%%%%%%%%%%
+\newpage
+\pagestyle{empty}
+
+\import{chapters/Tài liệu tham khảo/}{main.tex}
+
+% \newpage
+% \pagestyle{fancy}
+
+\end{document}

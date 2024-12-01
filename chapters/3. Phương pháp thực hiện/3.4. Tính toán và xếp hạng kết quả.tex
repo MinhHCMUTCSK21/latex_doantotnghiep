@@ -1,0 +1,78 @@
+\section{Tính toán và xếp hạng kết quả}
+Sau khi đã thu thập được dữ liệu của người dùng về MBTI và Career cluster. Tiến hành giải thuật VIKOR nhằm đánh giá các lựa chọn và đưa ra gợi ý phù hợp \cite{prasenjit} \cite{qianglin}
+
+\begin{itemize}
+    \item \textbf{Bước 1:} Định nghĩa tiêu chí và các giải pháp:
+        \begin{itemize}
+            \item \textit{MBTI (MC1)}: Điểm giữa MBTI và ngành nghề phù hợp.
+            \item \textit{Career clustering (MC2)}: Điểm giữa CC và ngành nghề phù hợp.
+            \item \textit{Salary (MC3)}: Điểm giữa mức lương và ngành, nghề phù hợp.
+            \item \textit{Job Amount (MC4)}: Điểm giữa số lượng công việc và ngành nghề phù hợp.
+        \end{itemize}
+        Mỗi giải pháp bao gồm 4 tiêu chí (MC1, MC2, MC3, MC4) ứng với mỗi ngành nghề.
+    \item \textbf{Bước 2:} Chuẩn hóa điểm
+        \begin{itemize}
+            \item $A_{\text{MC1}}$ = (1 nếu tồn tại trong input người, còn lại 0)
+            \item $A_{\text{MC2}}$ = (1 nếu tồn tại trong input người, còn lại 0)
+            \item $A_{\text{MC3}} = \left(\frac{\text{Salary}}{\text{Max}_{\text{salary}}}\right)$
+            \item $A_{\text{MC4}} = \left(\frac{\text{Job amount}}{\text{Max}_{\text{job amount}}}\right)$
+        \end{itemize}
+    \item Bước 3: Định nghĩa trọng số
+    
+    Mục đích của Ikigai là hướng tới một cuộc sống có được sự cân bằng giữa cả 4 câu hỏi. Do đó, trong đồ án này chúng tôi định nghĩa 
+    $w_{\text{1}}$ = 0.25 (MBTI), $w_{\text{2}}$ = 0.25 (CC), $w_{\text{3}}$ = 0.25 (Salary), $w_{\text{4}}$ = 0.25 (Job Amount)
+    \item Bước 4: Xác định giải pháp tốt nhất và tệ nhất
+    
+    Với từng phương án (i):
+        \begin{itemize}
+            \item \textit{Giải pháp tốt nhất ($A^{\text{+}}$)}: Điểm chuẩn hóa cao nhất cho tất cả các tiêu chí.
+            \item \textit{Giải pháp tệ nhất ($A^{\text{-}}$)}: Điểm chuẩn hóa thấp nhất cho tất cả các tiêu chí.
+        \end{itemize}
+    \item \textbf{Bước 5:} Tính các giá trị S:
+    
+    Với mỗi phương án (i) và mỗi tiêu chí (k), hãy tính giá trị S ($S_{\text{i}}$) theo công thức:\\
+    \[
+S_i = \sum_{k=1}^{4} w_k \frac{{(A^{+}_i - A_{ik})}}{{(A^{+}_i + A^{-}_i)}}
+\]
+
+    \[
+R_i = \max_{k} \left( w_k \frac{{(A^{+}_i - A_{ik})}}{{(A^{+}_i - A^{-}_i)}} \right)
+\]
+
+    Trong đó:\\
+    $w_{\text{k}}$: Trọng số của tiêu chí k\\
+    $A^{+}_i$: Giải pháp tốt nhất của phương án (i)\\
+    $A^{-}_i$: Giải pháp tệ nhất của phương án (i)\\
+    $A_{ik}$: Điểm chuẩn hóa của phương án (i) cho tiêu chí (k)
+
+    \item \textbf{Bước 6:} Tính chỉ số toàn diện ($Q_{i}$)
+    
+    Đối với mỗi phương án (i), tính chỉ số toàn diện ($Q_{i}$) bằng cách sử dụng công thức:
+    \[
+        Q_i = \frac{{(S_i - S_{\text{min}})}}{{2 \cdot (S_{\text{max}} - S_{\text{min}})}} + \frac{{(R_i - R_{\text{min}})}}{{2 \cdot (R_{\text{max}} - R_{\text{min}})}}
+    \]
+
+    Trong đó: \\
+    $S_{min}$: Giá trị tối thiểu của S cho tất cả các phương án \\
+    $S_{max}$: Giá trị tối đa của S cho tất cả các phương án \\
+    $R_{min}$: Giá trị tối thiểu của R cho tất cả các phương án \\
+    $R_{max}$: Giá trị tối đa của R cho tất cả các phương án \\
+
+    \item \textbf{Bước 7}: Xếp hạng các phương án
+
+    Xếp hạng tất cả các phương án (nhóm ngành nghề) dựa trên giá trị $Q_i$ của chúng. Các công việc có giá trị $Q_i$ thấp hơn được coi là ưu tiên hơn dựa trên phương pháp VIKOR.
+    
+    Đầu ra: thứ hạng cao nhất và đề xuất của hệ thống dựa trên chuyên ngành
+    
+    Trong phiên bản đơn giản của phương pháp tổng trọng số, các bước 3, 4 và 5 được bỏ qua. Ở bước 6, công thức được sửa đổi như sau:
+    Đối với mỗi phương án (i) và mỗi tiêu chí (k), hãy tính $Q_i$ bằng công thức:
+    
+    \[
+Q_i = \sum_{k=1}^{4} w_k A_{ik}
+\]
+    Giá trị $Q_i$ cao hơn tương ứng với thứ hạng cao hơn
+    
+    Từ kết quả xếp hạng, nhóm gợi ý dựa trên 3 giải pháp được xếp hạng cao nhất, vị trị đứng đầu, thứ 2 và thứ 3 cũng như đưa ra gợi ý về ngành học dựa trên ngành nghề này, hoàn tất quá trình mô phỏng xác định Ikigai của hệ thống.
+\end{itemize}
+
+

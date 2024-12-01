@@ -1,0 +1,56 @@
+\begin{titlepage}
+    \begin{tikzpicture}[remember picture,overlay,inner sep=0,outer sep=0]
+         \draw[black,line width=0.5pt] ([xshift=-1.5cm,yshift=-2cm]current page.north east) coordinate (A)--([xshift= 2.5cm,yshift=-2cm]current page.north west) coordinate(B)--([xshift=2.5cm,yshift=2cm]current page.south west) coordinate (C)--([xshift=-1.5cm,yshift=2cm]current page.south east) coordinate(D)--cycle;
+         
+         \draw[black,line width=4pt] ([xshift=-1.6cm,yshift=-2.1cm]current page.north east) coordinate (A)--([xshift= 2.6cm,yshift=-2.1cm]current page.north west) coordinate(B)--([xshift= 2.61cm,yshift=2.1cm]current page.south west) coordinate (C)--([xshift=-1.6cm,yshift=2.1cm]current page.south east) coordinate(D)--cycle;
+    \end{tikzpicture}
+    
+    \begin{center}
+        \fontsize{15pt}{15pt}\selectfont
+        \textbf{ĐẠI HỌC QUỐC GIA TP.HCM}\\
+        \textbf{TRƯỜNG ĐẠI HỌC BÁCH KHOA}\\
+        \textbf{KHOA KHOA HỌC VÀ KỸ THUẬT MÁY TÍNH}
+    \end{center}
+    
+    \begin{figure}[h!]
+        \centering
+        \includegraphics[width=4cm]{images/logoBK.jpg}
+    \end{figure}%
+    
+    \begin{tikzpicture}
+        \node at (.45\textwidth, 2) [name=DACN]{\fontsize{15}{15}\selectfont\textbf{BÁO CÁO}};
+        \node at (.45\textwidth, 1) [name=CO2001]{\fontsize{15}{15}\selectfont\textbf{ĐỒ ÁN TỐT NGHIỆP}};
+        \draw[thick,white] (-.5,.5) -- (.98\textwidth,.5);
+        \node at (.5,0){\fontsize{14}{14}\selectfont\textbf{}};
+        \node at (.475\textwidth, -1){\fontsize{18}{20}\selectfont\textbf{XÂY DỰNG HỆ THỐNG}};
+        \node at (.475\textwidth, -2){\fontsize{18}{20}\selectfont\textbf{HỖ TRỢ QUYẾT ĐỊNH}};
+        \node at (.475\textwidth, -3){\fontsize{18}{20}\selectfont\textbf{CHỌN NGÀNH HỌC ĐẠI HỌC}};
+        \node at (.475\textwidth, -4){\fontsize{15}{16}\selectfont\textbf{NGÀNH: KHOA HỌC MÁY TÍNH}};
+        \draw[thick,white] (-.5,-2.7) -- (.98\textwidth,-2.7);
+    \end{tikzpicture}\par%5
+    
+    \vspace{1.5cm}
+    \begin{table}[h!]
+        \raggedleft
+        \bfseries
+        \renewcommand{\arraystretch}{1.2}
+        \fontsize{15pt}{15pt}\selectfont
+        \begin{tabular}{llc}
+            HỘI ĐỒNG:   & Hội đồng X Khoa học Máy tính &\\
+            GVHD 1:     & ThS. Bùi Tiến Đức \\
+            GVHD 2:     & PGS.TS Trần Minh Quang \\
+            % GVPB:       & ... & \\
+            
+            & \quad\quad---o0o--- &  \\
+            SVTH 1:     & Nguyễn Quang Minh      & 2111753 \\
+            SVTH 2:     & Nguyễn Doãn Hoàng      & 2111238 \\
+            SVTH 3:     & Nguyễn Trần Ngọc Liên  & 2011521 \\
+        \end{tabular}
+    \end{table}
+    
+    \begin{center}
+        \vspace{1cm}\fontsize{14pt}{9pt}\selectfont
+        
+        TP. HỒ CHÍ MINH, 05/2024
+    \end{center}
+\end{titlepage}
