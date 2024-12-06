@@ -707,12 +707,12 @@ INPUT images\logoBK.jpg
 INPUT .\images\MCDMalgorithm.png
 INPUT .\images\MCDMalgorithm.png
 INPUT images\MCDMalgorithm.png
-INPUT .\images\MCDMgraph.png
-INPUT .\images\MCDMgraph.png
-INPUT images\MCDMgraph.png
 INPUT .\images\logoBK.jpg
 INPUT .\images\logoBK.jpg
 INPUT images\logoBK.jpg
+INPUT .\images\MCDMgraph.png
+INPUT .\images\MCDMgraph.png
+INPUT images\MCDMgraph.png
 INPUT .\images\MCDMarea.png
 INPUT .\images\MCDMarea.png
 INPUT images\MCDMarea.png
@@ -722,6 +722,9 @@ INPUT images\logoBK.jpg
 INPUT .\images\VIKOR.png
 INPUT .\images\VIKOR.png
 INPUT images\VIKOR.png
+INPUT .\images\logoBK.jpg
+INPUT .\images\logoBK.jpg
+INPUT images\logoBK.jpg
 INPUT .\images\logoBK.jpg
 INPUT .\images\logoBK.jpg
 INPUT images\logoBK.jpg
@@ -756,6 +759,9 @@ INPUT chapters\3. Phương pháp thực hiện\main.tex
 INPUT .\images\activity.png
 INPUT .\images\activity.png
 INPUT images\activity.png
+INPUT .\images\logoBK.jpg
+INPUT .\images\logoBK.jpg
+INPUT images\logoBK.jpg
 INPUT .\chapters\3. Phương pháp thực hiện\3.1. Xây dựng hệ cơ sở dữ liệu.tex
 INPUT chapters\3. Phương pháp thực hiện\3.1. Xây dựng hệ cơ sở dữ liệu.tex
 INPUT .\chapters\3. Phương pháp thực hiện\3.1. Xây dựng hệ cơ sở dữ liệu.tex
@@ -763,9 +769,6 @@ INPUT chapters\3. Phương pháp thực hiện\3.1. Xây dựng hệ cơ sở d�
 INPUT .\images\data.png
 INPUT .\images\data.png
 INPUT images\data.png
-INPUT .\images\logoBK.jpg
-INPUT .\images\logoBK.jpg
-INPUT images\logoBK.jpg
 INPUT .\images\oklahomaInfo.png
 INPUT .\images\oklahomaInfo.png
 INPUT images\oklahomaInfo.png
@@ -775,13 +778,13 @@ INPUT images\logoBK.jpg
 INPUT .\images\VietnamSalary.png
 INPUT .\images\VietnamSalary.png
 INPUT images\VietnamSalary.png
-INPUT .\chapters\3. Phương pháp thực hiện\3.2. Thu thập, đánh giá MBTI từ người dùng.tex
-INPUT chapters\3. Phương pháp thực hiện\3.2. Thu thập, đánh giá MBTI từ người dùng.tex
-INPUT .\chapters\3. Phương pháp thực hiện\3.2. Thu thập, đánh giá MBTI từ người dùng.tex
-INPUT chapters\3. Phương pháp thực hiện\3.2. Thu thập, đánh giá MBTI từ người dùng.tex
 INPUT .\images\logoBK.jpg
 INPUT .\images\logoBK.jpg
 INPUT images\logoBK.jpg
+INPUT .\chapters\3. Phương pháp thực hiện\3.2. Thu thập, đánh giá MBTI từ người dùng.tex
+INPUT chapters\3. Phương pháp thực hiện\3.2. Thu thập, đánh giá MBTI từ người dùng.tex
+INPUT .\chapters\3. Phương pháp thực hiện\3.2. Thu thập, đánh giá MBTI từ người dùng.tex
+INPUT chapters\3. Phương pháp thực hiện\3.2. Thu thập, đánh giá MBTI từ người dùng.tex
 INPUT .\images\logoBK.jpg
 INPUT .\images\logoBK.jpg
 INPUT images\logoBK.jpg
@@ -804,6 +807,9 @@ INPUT chapters\3. Phương pháp thực hiện\3.3. Thu thập phân cụm ngư�
 INPUT .\images\CC1.png
 INPUT .\images\CC1.png
 INPUT images\CC1.png
+INPUT .\images\logoBK.jpg
+INPUT .\images\logoBK.jpg
+INPUT images\logoBK.jpg
 INPUT .\images\CC2.png
 INPUT .\images\CC2.png
 INPUT images\CC2.png
@@ -896,21 +902,12 @@ INPUT images\ws1.png
 INPUT .\images\ws2.png
 INPUT .\images\ws2.png
 INPUT images\ws2.png
-INPUT .\images\logoBK.jpg
-INPUT .\images\logoBK.jpg
-INPUT images\logoBK.jpg
 INPUT .\images\ws3.png
 INPUT .\images\ws3.png
 INPUT images\ws3.png
-INPUT .\images\logoBK.jpg
-INPUT .\images\logoBK.jpg
-INPUT images\logoBK.jpg
 INPUT .\images\ws4.png
 INPUT .\images\ws4.png
 INPUT images\ws4.png
-INPUT .\images\logoBK.jpg
-INPUT .\images\logoBK.jpg
-INPUT images\logoBK.jpg
 INPUT .\images\logoBK.jpg
 INPUT .\images\logoBK.jpg
 INPUT images\logoBK.jpg
@@ -997,13 +994,13 @@ INPUT images\flowchart.png
 INPUT .\images\activityDiagram.png
 INPUT .\images\activityDiagram.png
 INPUT images\activityDiagram.png
-INPUT .\chapters\4. Thiết kế hệ thống\4.5. Hệ cơ sở dữ liệu.tex
-INPUT chapters\4. Thiết kế hệ thống\4.5. Hệ cơ sở dữ liệu.tex
-INPUT .\chapters\4. Thiết kế hệ thống\4.5. Hệ cơ sở dữ liệu.tex
-INPUT chapters\4. Thiết kế hệ thống\4.5. Hệ cơ sở dữ liệu.tex
 INPUT .\images\logoBK.jpg
 INPUT .\images\logoBK.jpg
 INPUT images\logoBK.jpg
+INPUT .\chapters\4. Thiết kế hệ thống\4.5. Hệ cơ sở dữ liệu.tex
+INPUT chapters\4. Thiết kế hệ thống\4.5. Hệ cơ sở dữ liệu.tex
+INPUT .\chapters\4. Thiết kế hệ thống\4.5. Hệ cơ sở dữ liệu.tex
+INPUT chapters\4. Thiết kế hệ thống\4.5. Hệ cơ sở dữ liệu.tex
 INPUT .\images\logoBK.jpg
 INPUT .\images\logoBK.jpg
 INPUT images\logoBK.jpg
@@ -1013,12 +1010,12 @@ INPUT images\logoBK.jpg
 INPUT .\images\database.png
 INPUT .\images\database.png
 INPUT images\database.png
-INPUT .\images\logoBK.jpg
-INPUT .\images\logoBK.jpg
-INPUT images\logoBK.jpg
 INPUT .\images\usertable.png
 INPUT .\images\usertable.png
 INPUT images\usertable.png
+INPUT .\images\logoBK.jpg
+INPUT .\images\logoBK.jpg
+INPUT images\logoBK.jpg
 INPUT .\images\logoBK.jpg
 INPUT .\images\logoBK.jpg
 INPUT images\logoBK.jpg
@@ -1038,24 +1035,51 @@ INPUT images\logoBK.jpg
 INPUT .\images\logoBK.jpg
 INPUT .\images\logoBK.jpg
 INPUT images\logoBK.jpg
+INPUT .\images\vps1.jpg
+INPUT .\images\vps1.jpg
+INPUT images\vps1.jpg
+INPUT .\images\vps4.jpg
+INPUT .\images\vps4.jpg
+INPUT images\vps4.jpg
+INPUT .\images\vps2.jpg
+INPUT .\images\vps2.jpg
+INPUT images\vps2.jpg
 INPUT .\images\logoBK.jpg
 INPUT .\images\logoBK.jpg
 INPUT images\logoBK.jpg
+INPUT .\images\vps3.jpg
+INPUT .\images\vps3.jpg
+INPUT images\vps3.jpg
+INPUT .\images\logoBK.jpg
+INPUT .\images\logoBK.jpg
+INPUT images\logoBK.jpg
+INPUT .\images\docker build.png
+INPUT .\images\docker build.png
+INPUT images\docker build.png
 INPUT .\images\domain.png
 INPUT .\images\domain.png
 INPUT images\domain.png
+INPUT .\images\logoBK.jpg
+INPUT .\images\logoBK.jpg
+INPUT images\logoBK.jpg
 INPUT .\images\dns.png
 INPUT .\images\dns.png
 INPUT images\dns.png
+INPUT .\images\apache-file.png
+INPUT .\images\apache-file.png
+INPUT images\apache-file.png
+INPUT .\images\logoBK.jpg
+INPUT .\images\logoBK.jpg
+INPUT images\logoBK.jpg
+INPUT .\images\run-docker-apache.png
+INPUT .\images\run-docker-apache.png
+INPUT images\run-docker-apache.png
 INPUT .\images\logoBK.jpg
 INPUT .\images\logoBK.jpg
 INPUT images\logoBK.jpg
 INPUT .\images\chap5\login.png
 INPUT .\images\chap5\login.png
 INPUT images\chap5\login.png
-INPUT .\images\logoBK.jpg
-INPUT .\images\logoBK.jpg
-INPUT images\logoBK.jpg
 INPUT .\images\logoBK.jpg
 INPUT .\images\logoBK.jpg
 INPUT images\logoBK.jpg

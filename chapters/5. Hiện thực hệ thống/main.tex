@@ -10,7 +10,7 @@ BKareer được thiết kế và xây dựng dựa trên các công nghệ chí
 Hệ thống được tổ chức theo cơ chế client-server sử dụng restful API để tương tác giữa các thành phần. Hệ thống được chia thành các thành phần chính sau:
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.5\linewidth]{images/sys.png}
+    \includegraphics[width=0.7\linewidth]{images/sys.png}
     \vspace{0.5cm}
     \caption{Hệ thống}
 \end{figure}
@@ -38,7 +38,37 @@ Chứng chỉ SSL (Secure Sockets Layer) là một công cụ quan trọng trong
 \subsection{Các bước triển khai hệ thống}
 
 \subsubsection{Bước 1: Đăng ký VPS}
-Nhóm đã đăng ký VPS tại \textit{bkhost.vn}. Sau khi mua VPS, nhà cung cấp cung cấp địa chỉ IP và mật khẩu truy cập. Đây là bước đầu để thiết lập môi trường triển khai trên máy chủ riêng.
+Nhóm đã đăng ký VPS tại \textit{matbao.net}. Sau khi mua VPS, nhà cung cấp cung cấp địa chỉ IP và mật khẩu truy cập. Đây là bước đầu để thiết lập môi trường triển khai trên máy chủ riêng. Dưới đây là hình ảnh về server của nhóm.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\linewidth]{images/vps1.jpg}
+    \vspace{0.5cm}
+    \caption{Thông tin VPS}
+    % \caption{Hệ thống}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\linewidth]{images/vps4.jpg}
+    \vspace{0.5cm}
+    \caption{Giao diện thuê VPS}    
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\linewidth]{images/vps2.jpg}
+    \vspace{0.5cm} 
+    \caption{Biểu đồ sử dụng tài nguyên}    
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\linewidth]{images/vps3.jpg}
+    \vspace{0.5cm} 
+    \caption{Yêu cầu về tài nguyên}    
+\end{figure}
+
 
 \subsubsection{Bước 2: Truy cập VPS}
 Nhóm sử dụng công cụ \textit{VSCode Studio} kết hợp với tiện ích \textit{Remote SSH} để kết nối tới máy chủ. Sau khi cấu hình SSH bằng tên đăng nhập và mật khẩu được cung cấp, có thể truy cập và làm việc trên VPS từ xa. Đây là môi trường làm việc chính cho việc triển khai hệ thống.
@@ -76,6 +106,14 @@ sudo apt install docker-ce
 docker build -t myreactapp .
 docker run -d -p 6789:6789 myreactapp
 \end{verbatim}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.9\linewidth]{images/docker build.png}
+    \vspace{0.5cm}
+    \caption{Triển khai ứng dụng trên Docker}
+\end{figure}
+
 Khi Docker container hoạt động, ứng dụng có thể truy cập tại cổng đã định cấu hình. Đối với nhóm là địa chỉ ip 103.15.51.131
 
 \subsubsection{Bước 5: Đăng ký tên miền}
@@ -85,7 +123,7 @@ Nhóm đã đăng ký tên miền tại \textit{tenten.vn}.
     \includegraphics[width=0.9\linewidth]{images/domain.png}
     \vspace{0.5cm}
     \caption{Đăng ký tên miền}
-\end{figure}
+\end{figure}    
 Thiết lập DNS cho tên miền để trỏ tới địa chỉ IP của VPS.
 \begin{figure}[H]
     \centering
@@ -109,7 +147,22 @@ Một cấu hình mới được tạo tại \texttt{/etc/apache2/sites-availabl
     CustomLog ${APACHE_LOG_DIR}/access.log combined
 </VirtualHost>
 \end{verbatim}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.9\linewidth]{images/apache-file.png}
+    \vspace{0.5cm}
+    \caption{Hình trên mô tả quy trình cấu hình Apache trên terminal}
+\end{figure}
+
 Sau khi kích hoạt cấu hình này (\texttt{sudo a2ensite myproxy.conf}), nhóm kiểm tra và khởi động lại Apache (\texttt{sudo apache2ctl configtest} và \texttt{sudo systemctl restart apache2}).
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.9\linewidth]{images/run-docker-apache.png}
+    \vspace{0.5cm}
+    \caption{Hình trên mô tả quy trình khởi động lại apache sau khi kích hoạt cấu hình myproxy}
+\end{figure}
 
 \subsection{Kết quả triển khai}
 Hệ thống đã được triển khai thành công, hoạt động ổn định trên tên miền \textit{bkareer.online}, với đầy đủ chức năng theo yêu cầu.

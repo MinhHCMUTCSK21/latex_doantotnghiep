@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2024.11.26)  1 DEC 2024 14:05
+This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2024.11.26)  6 DEC 2024 10:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1473,7 +1473,9 @@ LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <7.5> not available
 
 [8
 
-])
+]
+
+[9])
 \tf@lof=\write12
 \openout12 = `main.lof'.
 
@@ -1481,7 +1483,7 @@ LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <7.5> not available
 No file main.acr.
 
 
-[9]
+[10]
 Chương 1.
 (chapters/1. Tổng quan/main.tex (chapters/1. Tổng quan/1.1. Thực trạng.tex
 
@@ -1523,10 +1525,6 @@ File: images/logoBK.jpg Graphic file (type bmp)
 
 ]
 
-LaTeX Warning: Citation `yizhou' on page 7 undefined on input line 29.
-
-
-
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
 [7]
@@ -1542,10 +1540,6 @@ File: images/logoBK.jpg Graphic file (type bmp)
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
 [10]
-
-LaTeX Warning: Citation `muhammad' on page 11 undefined on input line 54.
-
-
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
@@ -1641,13 +1635,13 @@ File: images/logoBK.jpg Graphic file (type bmp)
 [27]
 File: images/MCDMalgorithm.png Graphic file (type bmp)
 <images/MCDMalgorithm.png>
-File: images/MCDMgraph.png Graphic file (type bmp)
-<images/MCDMgraph.png>
 
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
 [28]
+File: images/MCDMgraph.png Graphic file (type bmp)
+<images/MCDMgraph.png>
 File: images/MCDMarea.png Graphic file (type bmp)
 <images/MCDMarea.png>
 
@@ -1662,6 +1656,10 @@ File: images/VIKOR.png Graphic file (type bmp)
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
 [30]
+
+File: images/logoBK.jpg Graphic file (type bmp)
+<images/logoBK.jpg>
+[31]
 File: images/VIKORtable.png Graphic file (type bmp)
 <images/VIKORtable.png>
 
@@ -1669,10 +1667,6 @@ File: images/VIKORtable.png Graphic file (type bmp)
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-
-File: images/logoBK.jpg Graphic file (type bmp)
-<images/logoBK.jpg>
-[31]
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
@@ -1692,75 +1686,83 @@ File: images/logoBK.jpg Graphic file (type bmp)
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[36]))
+[36]
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[37]
+[37]))
+
+File: images/logoBK.jpg Graphic file (type bmp)
+<images/logoBK.jpg>
+[38]
 Chương 3.
 (chapters/3. Phương pháp thực hiện/main.tex
 File: images/activity.png Graphic file (type bmp)
 <images/activity.png>
- (chapters/3. Phương pháp thực hiện/3.1. Xây dựng hệ cơ sở dữ liệu.tex
-File: images/data.png Graphic file (type bmp)
-<images/data.png>
 
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[38
+[39
 
-]
+] (chapters/3. Phương pháp thực hiện/3.1. Xây dựng hệ cơ sở dữ liệu.tex
+File: images/data.png Graphic file (type bmp)
+<images/data.png>
 File: images/oklahomaInfo.png Graphic file (type bmp)
 <images/oklahomaInfo.png>
 
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[39]
+[40]
 File: images/VietnamSalary.png Graphic file (type bmp)
 <images/VietnamSalary.png>
-) (chapters/3. Phương pháp thực hiện/3.2. Thu thập, đánh giá MBTI từ người dùng.tex
+
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[40]
+[41]) (chapters/3. Phương pháp thực hiện/3.2. Thu thập, đánh giá MBTI từ người dùng.tex
 Underfull \hbox (badness 10000) in paragraph at lines 6--216
 
  []
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[41]
-File: images/logoBK.jpg Graphic file (type bmp)
-<images/logoBK.jpg>
- [42]
+[42]
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
  [43]
+File: images/logoBK.jpg Graphic file (type bmp)
+<images/logoBK.jpg>
+ [44]
 File: images/MBTItable.png Graphic file (type bmp)
 <images/MBTItable.png>
 
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[44]) (chapters/3. Phương pháp thực hiện/3.3. Thu thập phân cụm người dùng từ Career Interest Clustering.tex
+[45]) (chapters/3. Phương pháp thực hiện/3.3. Thu thập phân cụm người dùng từ Career Interest Clustering.tex
 File: images/CC1.png Graphic file (type bmp)
 <images/CC1.png>
+
+
+File: images/logoBK.jpg Graphic file (type bmp)
+<images/logoBK.jpg>
+[46]
 File: images/CC2.png Graphic file (type bmp)
 <images/CC2.png>
 
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[45]
+[47]
 File: images/CC3.png Graphic file (type bmp)
 <images/CC3.png>
 
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[46]
+[48]
 File: images/CC4.png Graphic file (type bmp)
 <images/CC4.png>
 File: images/CC5.png Graphic file (type bmp)
@@ -1769,11 +1771,11 @@ File: images/CC5.png Graphic file (type bmp)
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[47]) (chapters/3. Phương pháp thực hiện/3.4. Tính toán và xếp hạng kết quả.tex
+[49]) (chapters/3. Phương pháp thực hiện/3.4. Tính toán và xếp hạng kết quả.tex
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[48]
+[50]
 Underfull \hbox (badness 10000) in paragraph at lines 33--34
 
  []
@@ -1782,7 +1784,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--34
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[49]
+[51]
 Underfull \hbox (badness 10000) in paragraph at lines 55--60
 
  []
@@ -1791,7 +1793,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 55--60
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[50]
+[52]
 Underfull \hbox (badness 10000) in paragraph at lines 20--26
 
  []
@@ -1823,7 +1825,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 51--56
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[51]
+[53]
 Underfull \hbox (badness 10000) in paragraph at lines 57--62
 
  []
@@ -1865,7 +1867,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 99--104
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[52]
+[54]
 Underfull \hbox (badness 10000) in paragraph at lines 105--110
 
  []
@@ -1899,7 +1901,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 135--140
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[53]
+[55]
 Underfull \hbox (badness 10000) in paragraph at lines 160--166
 
  []
@@ -1931,7 +1933,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 191--196
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[54]
+[56]
 Underfull \hbox (badness 10000) in paragraph at lines 197--202
 
  []
@@ -1955,7 +1957,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 215--220
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[55]
+[57]
 Underfull \hbox (badness 10000) in paragraph at lines 238--243
 
  []
@@ -1992,7 +1994,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 269--273
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[56]
+[58]
 Underfull \hbox (badness 10000) in paragraph at lines 274--278
 
  []
@@ -2049,7 +2051,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 328--332
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[57]
+[59]
 Underfull \hbox (badness 10000) in paragraph at lines 333--337
 
  []
@@ -2058,7 +2060,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 333--337
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[58]
+[60]
 Underfull \hbox (badness 10000) in paragraph at lines 361--365
 
  []
@@ -2115,7 +2117,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 402--405
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[59]
+[61]
 Underfull \hbox (badness 10000) in paragraph at lines 406--409
 
  []
@@ -2164,7 +2166,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 438--441
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[60]
+[62]
 Underfull \hbox (badness 10000) in paragraph at lines 470--477
 
  []
@@ -2186,7 +2188,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 492--498
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[61]
+[63]
 Underfull \hbox (badness 10000) in paragraph at lines 499--505
 
  []
@@ -2243,7 +2245,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 569--575
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[62]
+[64]
 Underfull \hbox (badness 10000) in paragraph at lines 576--582
 
  []
@@ -2295,7 +2297,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 639--645
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[63]
+[65]
 Underfull \hbox (badness 10000) in paragraph at lines 646--652
 
  []
@@ -2352,7 +2354,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 716--722
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[64]
+[66]
 Underfull \hbox (badness 10000) in paragraph at lines 723--729
 
  []
@@ -2404,7 +2406,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 786--792
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[65]
+[67]
 Underfull \hbox (badness 10000) in paragraph at lines 793--799
 
  []
@@ -2428,34 +2430,40 @@ Underfull \hbox (badness 10000) in paragraph at lines 814--820
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[66]
+[68]
 File: images/ws1.png Graphic file (type bmp)
 <images/ws1.png>
+
+Overfull \hbox (91.04742pt too wide) in paragraph at lines 847--848
+ [][] 
+ []
+
 File: images/ws2.png Graphic file (type bmp)
 <images/ws2.png>
 
+Overfull \hbox (91.04742pt too wide) in paragraph at lines 852--853
+ [][] 
+ []
 
-File: images/logoBK.jpg Graphic file (type bmp)
-<images/logoBK.jpg>
-[67]
 File: images/ws3.png Graphic file (type bmp)
 <images/ws3.png>
 
+Overfull \hbox (91.04742pt too wide) in paragraph at lines 857--858
+ [][] 
+ []
 
-File: images/logoBK.jpg Graphic file (type bmp)
-<images/logoBK.jpg>
-[68]
 File: images/ws4.png Graphic file (type bmp)
 <images/ws4.png>
+
+Overfull \hbox (91.04742pt too wide) in paragraph at lines 862--863
+ [][] 
+ []
+
 
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
 [69]
-
-File: images/logoBK.jpg Graphic file (type bmp)
-<images/logoBK.jpg>
-[70]
 Underfull \hbox (badness 10000) in paragraph at lines 881--887
 
  []
@@ -2470,7 +2478,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 894--899
 
  []
 
-
+File: images/logoBK.jpg Graphic file (type bmp)
+<images/logoBK.jpg>
+[70]
 Underfull \hbox (badness 10000) in paragraph at lines 900--905
 
  []
@@ -2490,9 +2500,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 918--923
 
  []
 
-File: images/logoBK.jpg Graphic file (type bmp)
-<images/logoBK.jpg>
-[71]
+
 Underfull \hbox (badness 10000) in paragraph at lines 924--929
 
  []
@@ -2516,7 +2524,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 942--947
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[72]
+[71]
 Underfull \hbox (badness 10000) in paragraph at lines 965--972
 
  []
@@ -2546,7 +2554,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 1001--1007
 
  []
 
-
+File: images/logoBK.jpg Graphic file (type bmp)
+<images/logoBK.jpg>
+[72]
 Underfull \hbox (badness 10000) in paragraph at lines 1008--1014
 
  []
@@ -2561,9 +2571,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1022--1028
 
  []
 
-File: images/logoBK.jpg Graphic file (type bmp)
-<images/logoBK.jpg>
-[73]
+
 Underfull \hbox (badness 10000) in paragraph at lines 1029--1035
 
  []
@@ -2582,13 +2590,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 1043--1049
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[74]
+[73]
 Chương 4.
 (chapters/4. Thiết kế hệ thống/main.tex (chapters/4. Thiết kế hệ thống/4.1. Yêu cầu chức năng (Functional Requirements).tex
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[75
+[74
 
 ]) (chapters/4. Thiết kế hệ thống/4.2. Yêu cầu phi chức năng (Non-functional Requirements).tex) (chapters/4. Thiết kế hệ thống/4.3. Use-case Diagram.tex
 File: images/usecase.png Graphic file (type bmp)
@@ -2597,10 +2605,14 @@ File: images/usecase.png Graphic file (type bmp)
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[76]
+[75]
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
- [77]
+ [76]
+
+File: images/logoBK.jpg Graphic file (type bmp)
+<images/logoBK.jpg>
+[77]
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
@@ -2609,10 +2621,9 @@ File: images/logoBK.jpg Graphic file (type bmp)
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
 [79]
-
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[80]
+ [80]
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
  [81]
@@ -2630,31 +2641,24 @@ File: images/logoBK.jpg Graphic file (type bmp)
  [85]
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
- [86]
-File: images/logoBK.jpg Graphic file (type bmp)
-<images/logoBK.jpg>
- [87]) (chapters/4. Thiết kế hệ thống/4.4. Activity Diagram.tex
+ [86]) (chapters/4. Thiết kế hệ thống/4.4. Activity Diagram.tex
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[88]
+[87]
 File: images/flowchart.png Graphic file (type bmp)
 <images/flowchart.png>
-
-
-LaTeX Warning: Float too large for page by 819.00087pt on input line 9.
-
 File: images/activityDiagram.png Graphic file (type bmp)
 <images/activityDiagram.png>
-) (chapters/4. Thiết kế hệ thống/4.5. Hệ cơ sở dữ liệu.tex
+
+
+File: images/logoBK.jpg Graphic file (type bmp)
+<images/logoBK.jpg>
+[88]) (chapters/4. Thiết kế hệ thống/4.5. Hệ cơ sở dữ liệu.tex
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
 [89]
-
-File: images/logoBK.jpg Graphic file (type bmp)
-<images/logoBK.jpg>
-[90]
 Underfull \hbox (badness 10000) in paragraph at lines 10--23
 
  []
@@ -2663,25 +2667,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--23
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[91]
+[90]
 File: images/database.png Graphic file (type bmp)
 <images/database.png>
-
-
-File: images/logoBK.jpg Graphic file (type bmp)
-<images/logoBK.jpg>
-[92]
 File: images/usertable.png Graphic file (type bmp)
 <images/usertable.png>
 
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[93]))
+[91]
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[94]
+[92]))
+
+File: images/logoBK.jpg Graphic file (type bmp)
+<images/logoBK.jpg>
+[93]
 Chương 5.
 (chapters/5. Hiện thực hệ thống/main.tex
 File: images/sys.png Graphic file (type bmp)
@@ -2690,7 +2693,7 @@ File: images/sys.png Graphic file (type bmp)
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[95
+[94
 
 ]
 Underfull \hbox (badness 1383) in paragraph at lines 20--22
@@ -2701,217 +2704,242 @@ Underfull \hbox (badness 1383) in paragraph at lines 20--22
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[96]
-Overfull \hbox (25.89581pt too wide) in paragraph at lines 69--69
- []    \TU/lmtt/m/n/12 https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable" |[] 
- []
+[95]
+File: images/vps1.jpg Graphic file (type bmp)
+<images/vps1.jpg>
+File: images/vps4.jpg Graphic file (type bmp)
+<images/vps4.jpg>
+File: images/vps2.jpg Graphic file (type bmp)
+<images/vps2.jpg>
 
+
+File: images/logoBK.jpg Graphic file (type bmp)
+<images/logoBK.jpg>
+[96]
+File: images/vps3.jpg Graphic file (type bmp)
+<images/vps3.jpg>
 
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
 [97]
+Overfull \hbox (25.89581pt too wide) in paragraph at lines 99--99
+ []    \TU/lmtt/m/n/12 https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable" |[] 
+ []
+
+File: images/docker build.png Graphic file (type bmp)
+<images/docker build.png>
 File: images/domain.png Graphic file (type bmp)
 <images/domain.png>
-File: images/dns.png Graphic file (type bmp)
-<images/dns.png>
 
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
 [98]
+File: images/dns.png Graphic file (type bmp)
+<images/dns.png>
+File: images/apache-file.png Graphic file (type bmp)
+<images/apache-file.png>
+
+
+File: images/logoBK.jpg Graphic file (type bmp)
+<images/logoBK.jpg>
+[99]
+File: images/run-docker-apache.png Graphic file (type bmp)
+<images/run-docker-apache.png>
+
+
+File: images/logoBK.jpg Graphic file (type bmp)
+<images/logoBK.jpg>
+[100]
 File: images/chap5/login.png Graphic file (type bmp)
 <images/chap5/login.png>
 
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[99]
-
-File: images/logoBK.jpg Graphic file (type bmp)
-<images/logoBK.jpg>
-[100]
+[101]
 File: images/chap5/register.png Graphic file (type bmp)
 <images/chap5/register.png>
 
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[101]
+[102]
 File: images/chap5/homeScreen.png Graphic file (type bmp)
 <images/chap5/homeScreen.png>
 
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[102]
+[103]
 File: images/chap5/profileScreen.png Graphic file (type bmp)
 <images/chap5/profileScreen.png>
 
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[103]
+[104]
 File: images/chap5/profile-Result.png Graphic file (type bmp)
 <images/chap5/profile-Result.png>
 
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[104]
+[105]
 File: images/chap5/profile-Setting.png Graphic file (type bmp)
 <images/chap5/profile-Setting.png>
 
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[105]
+[106]
 File: images/chap5/ikigai.png Graphic file (type bmp)
 <images/chap5/ikigai.png>
 
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[106]
+[107]
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[107]
+[108]
 File: images/chap5/news.png Graphic file (type bmp)
 <images/chap5/news.png>
 
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[108]
+[109]
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[109]
+[110]
 File: images/chap5/majorTest.png Graphic file (type bmp)
 <images/chap5/majorTest.png>
 
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[110]
+[111]
 File: images/chap5/majorResult.png Graphic file (type bmp)
 <images/chap5/majorResult.png>
 
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[111]
+[112]
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[112]
+[113]
 File: images/chap5/mbtiDetail.png Graphic file (type bmp)
 <images/chap5/mbtiDetail.png>
 
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[113]
+[114]
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[114]
+[115]
 File: images/chap5/mbti.png Graphic file (type bmp)
 <images/chap5/mbti.png>
 
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[115]
+[116]
 File: images/chap5/ccDetail.png Graphic file (type bmp)
 <images/chap5/ccDetail.png>
 
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[116]
+[117]
 File: images/chap5/career.png Graphic file (type bmp)
 <images/chap5/career.png>
 
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[117]
+[118]
 File: images/chap5/iqDetail.png Graphic file (type bmp)
 <images/chap5/iqDetail.png>
 
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[118]
+[119]
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[119]
+[120]
 File: images/chap5/iq.png Graphic file (type bmp)
 <images/chap5/iq.png>
 
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[120]
+[121]
 File: images/chap5/eqDetail.png Graphic file (type bmp)
 <images/chap5/eqDetail.png>
 
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[121]
+[122]
 File: images/chap5/eq.png Graphic file (type bmp)
 <images/chap5/eq.png>
 
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[122]
+[123]
 File: images/chap5/lrBrainDetail.png Graphic file (type bmp)
 <images/chap5/lrBrainDetail.png>
 
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[123]
+[124]
 File: images/chap5/lrBrain.png Graphic file (type bmp)
 <images/chap5/lrBrain.png>
 
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[124]
+[125]
 File: images/chap5/learningStyleDetail.png Graphic file (type bmp)
 <images/chap5/learningStyleDetail.png>
 
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[125]
+[126]
 File: images/chap5/learningStyle.png Graphic file (type bmp)
 <images/chap5/learningStyle.png>
 
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[126]
+[127]
 File: images/dashboardLogin.png Graphic file (type bmp)
 <images/dashboardLogin.png>
 
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[127]
+[128]
 File: images/dashboard.png Graphic file (type bmp)
 <images/dashboard.png>
 
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[128]
+[129]
 File: images/accAdmin.png Graphic file (type bmp)
 <images/accAdmin.png>
 File: images/testAdmin.png Graphic file (type bmp)
@@ -2920,7 +2948,7 @@ File: images/testAdmin.png Graphic file (type bmp)
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[129]
+[130]
 File: images/surAdmin.png Graphic file (type bmp)
 <images/surAdmin.png>
 File: images/accu.png Graphic file (type bmp)
@@ -2929,7 +2957,7 @@ File: images/accu.png Graphic file (type bmp)
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[130]
+[131]
 File: images/compare.png Graphic file (type bmp)
 <images/compare.png>
 File: mbtiChart.png Graphic file (type bmp)
@@ -2938,7 +2966,7 @@ File: mbtiChart.png Graphic file (type bmp)
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[131]
+[132]
 File: images/CCChart.png Graphic file (type bmp)
 <images/CCChart.png>
 File: images/admin.jpg Graphic file (type bmp)
@@ -2947,14 +2975,14 @@ File: images/admin.jpg Graphic file (type bmp)
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[132]
+[133]
 File: images/admin2.jpg Graphic file (type bmp)
 <images/admin2.jpg>
 )
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[133]
+[134]
 Chương 6.
 (chapters/6. Đánh giá kết quả/main.tex (chapters/6. Đánh giá kết quả/6.1. Trải nghiệm chung.tex
 File: images/survey1.png Graphic file (type bmp)
@@ -2965,14 +2993,14 @@ File: images/accChart.png Graphic file (type bmp)
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[134
+[135
 
 ]
 File: comparisonChart.png Graphic file (type bmp)
 <comparisonChart.png>
 
 
-LaTeX Warning: Hyper reference `2.2' on page 135 undefined on input line 32.
+LaTeX Warning: Hyper reference `2.2' on page 136 undefined on input line 32.
 
 ) (chapters/6. Đánh giá kết quả/6.2. Các bài kiểm tra.tex
 File: images/survey2.png Graphic file (type bmp)
@@ -2981,20 +3009,20 @@ File: images/survey2.png Graphic file (type bmp)
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[135]
+[136]
 File: images/survey3.png Graphic file (type bmp)
 <images/survey3.png>
 ))
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[136]
+[137]
 Chương 7.
 (chapters/7. Tổng kết/main.tex (chapters/7. Tổng kết/7.1. Đánh giá quá trình.tex) (chapters/7. Tổng kết/7.2. Đánh giá ưu, nhược điểm.tex
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[137
+[138
 
 ]
 File: images/present.png Graphic file (type bmp)
@@ -3005,19 +3033,19 @@ File: images/email.png Graphic file (type bmp)
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[138]) (chapters/7. Tổng kết/7.3. Hướng phát triển.tex
+[139]) (chapters/7. Tổng kết/7.3. Hướng phát triển.tex
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[139]) (chapters/7. Tổng kết/7.4. Bài học rút ra.tex
+[140]) (chapters/7. Tổng kết/7.4. Bài học rút ra.tex
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[140]))
+[141]))
 
 File: images/logoBK.jpg Graphic file (type bmp)
 <images/logoBK.jpg>
-[141] (chapters/Tài liệu tham khảo/main.tex
+[142] (chapters/Tài liệu tham khảo/main.tex
 Underfull \hbox (badness 10000) in paragraph at lines 17--20
 []\TU/TimesNewRoman(0)/m/n/12 (08.12.2021), \TU/TimesNewRoman(0)/m/it/12 Thực trạng cử nhân thất nghiệp là do đâu ?\TU/TimesNewRoman(0)/m/n/12 , truy cập từ
  []
@@ -3044,7 +3072,7 @@ Underfull \hbox (badness 2080) in paragraph at lines 62--66
 
 
 
-[142
+[143
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 100--104
@@ -3072,69 +3100,94 @@ Underfull \hbox (badness 2443) in paragraph at lines 106--111
  []
 
 
-Underfull \hbox (badness 2538) in paragraph at lines 113--117
-[]\TU/TimesNewRoman(0)/m/n/12 Rama MALLICK (2023), \TU/TimesNewRoman(0)/m/it/12 NEUTROSOPHIC MAGDM BASED ON CRITIC-EDAS
+Underfull \hbox (badness 3364) in paragraph at lines 119--123
+[]\TU/TimesNewRoman(0)/m/n/12 Yizhou Zhou, Yong Zhang, Sijia Yu, Naijie Liu (2024), \TU/TimesNewRoman(0)/m/it/12 Research on the De-
  []
 
 
-Underfull \hbox (badness 2050) in paragraph at lines 119--124
-[]\TU/TimesNewRoman(0)/m/n/12 Rekha Sahu, Satya R. Dash, Sujit Das (2021), \TU/TimesNewRoman(0)/m/it/12 CAREER SELECTION OF STU-
- []
-
-
-Underfull \hbox (badness 4132) in paragraph at lines 119--124
-\TU/TimesNewRoman(0)/m/it/12 SET AND ROUGH SET THEORY\TU/TimesNewRoman(0)/m/n/12 , Scientific Oasis, tập 4, số 1, truy cập từ
- []
-
-
-
-[143]
-Underfull \hbox (badness 6157) in paragraph at lines 131--135
-[]\TU/TimesNewRoman(0)/m/n/12 Yara Zayed , Yasmeen Salman, Ahmad Hasasneh (2022), \TU/TimesNewRoman(0)/m/it/12 A Recommendation
- []
-
-
-Underfull \hbox (badness 3375) in paragraph at lines 131--135
-\TU/TimesNewRoman(0)/m/it/12 System for Selecting the Appropriate Undergraduate Program at Higher Educa-
- []
-
-
-Underfull \hbox (badness 5374) in paragraph at lines 131--135
-\TU/TimesNewRoman(0)/m/it/12 tion Institutions Using Graduate Student Data\TU/TimesNewRoman(0)/m/n/12 , Applied Sciences, truy cập từ
- []
-
-
-Underfull \hbox (badness 1286) in paragraph at lines 152--155
-[]\TU/TimesNewRoman(0)/m/n/12 Samuel SteinSamuel Stein, Gary M. Weiss, Gary M. Weiss, Yiwen Chen, Daniel
- []
-
-
-Underfull \hbox (badness 3989) in paragraph at lines 152--155
-\TU/TimesNewRoman(0)/m/n/12 D. Leeds (18.12.2017), \TU/TimesNewRoman(0)/m/it/12 A College Major Recommendation System\TU/TimesNewRoman(0)/m/n/12 , truy cập từ
+Underfull \hbox (badness 5924) in paragraph at lines 119--123
+\TU/TimesNewRoman(0)/m/it/12 sign of an AI Career Path Recommendation System Based on MBTI from a
  []
 
 
 
 [144]
-Underfull \hbox (badness 10000) in paragraph at lines 181--184
+Underfull \hbox (badness 2538) in paragraph at lines 125--129
+[]\TU/TimesNewRoman(0)/m/n/12 Rama MALLICK (2023), \TU/TimesNewRoman(0)/m/it/12 NEUTROSOPHIC MAGDM BASED ON CRITIC-EDAS
+ []
+
+
+Underfull \hbox (badness 2050) in paragraph at lines 131--136
+[]\TU/TimesNewRoman(0)/m/n/12 Rekha Sahu, Satya R. Dash, Sujit Das (2021), \TU/TimesNewRoman(0)/m/it/12 CAREER SELECTION OF STU-
+ []
+
+
+Underfull \hbox (badness 4132) in paragraph at lines 131--136
+\TU/TimesNewRoman(0)/m/it/12 SET AND ROUGH SET THEORY\TU/TimesNewRoman(0)/m/n/12 , Scientific Oasis, tập 4, số 1, truy cập từ
+ []
+
+
+Underfull \hbox (badness 6157) in paragraph at lines 143--147
+[]\TU/TimesNewRoman(0)/m/n/12 Yara Zayed , Yasmeen Salman, Ahmad Hasasneh (2022), \TU/TimesNewRoman(0)/m/it/12 A Recommendation
+ []
+
+
+Underfull \hbox (badness 3375) in paragraph at lines 143--147
+\TU/TimesNewRoman(0)/m/it/12 System for Selecting the Appropriate Undergraduate Program at Higher Educa-
+ []
+
+
+Underfull \hbox (badness 5374) in paragraph at lines 143--147
+\TU/TimesNewRoman(0)/m/it/12 tion Institutions Using Graduate Student Data\TU/TimesNewRoman(0)/m/n/12 , Applied Sciences, truy cập từ
+ []
+
+
+Underfull \hbox (badness 4168) in paragraph at lines 149--154
+[]\TU/TimesNewRoman(0)/m/n/12 Mohamed Ezz, Ayman Elshenawy (2019), \TU/TimesNewRoman(0)/m/it/12 Adaptive recommendation system us-
+ []
+
+
+Underfull \hbox (badness 2418) in paragraph at lines 149--154
+\TU/TimesNewRoman(0)/m/it/12 ing machine learning algorithms for predicting student’s best academic program\TU/TimesNewRoman(0)/m/n/12 ,
+ []
+
+
+Underfull \hbox (badness 3746) in paragraph at lines 149--154
+\TU/TimesNewRoman(0)/m/n/12 Education and Information Technologies, tập 25, trang 2733-2746, truy cập từ
+ []
+
+
+Underfull \hbox (badness 1286) in paragraph at lines 163--166
+[]\TU/TimesNewRoman(0)/m/n/12 Samuel SteinSamuel Stein, Gary M. Weiss, Gary M. Weiss, Yiwen Chen, Daniel
+ []
+
+
+Underfull \hbox (badness 3989) in paragraph at lines 163--166
+\TU/TimesNewRoman(0)/m/n/12 D. Leeds (18.12.2017), \TU/TimesNewRoman(0)/m/it/12 A College Major Recommendation System\TU/TimesNewRoman(0)/m/n/12 , truy cập từ
+ []
+
+
+
+[145]
+Underfull \hbox (badness 10000) in paragraph at lines 192--195
 \TU/TimesNewRoman(0)/m/n/12 dong-tien-luong/muc-luong-cua-dien-vien-hang-1-hoat-dong-trong-linh-vuc-nghe-thuat-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 216--219
+Underfull \hbox (badness 10000) in paragraph at lines 227--230
 \TU/TimesNewRoman(0)/m/n/12 su-trong-linh-vuc-tai-chinh-ngan-hang-lan-dau-sut-giam-sau-gan-3-nam-miet-mai-tang-
  []
 
 
 
-[145])
+[146])
 
 Package caption Warning: Unused \captionsetup[sub] on input line 54.
 See the caption package documentation for explanation.
 
 
 
-[146] 
+[147] 
 enddocument/afterlastpage: lastpage setting LastPage.
 (main.aux)
  ***********
@@ -3150,15 +3203,15 @@ LaTeX Font Warning: Size substitutions with differences
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: D68330072ABF6FC054029A0B99A0F6C9;21268.
+(rerunfilecheck)             Checksum: 35D4C830061CAC55498DE01BE2D6646E;21305.
  ) 
 Here is how much of TeX's memory you used:
- 41325 strings out of 408789
- 853176 string characters out of 5748697
- 1508782 words of memory out of 5000000
- 63345 multiletter control sequences out of 15000+600000
+ 41391 strings out of 408789
+ 854695 string characters out of 5748697
+ 1511782 words of memory out of 5000000
+ 63404 multiletter control sequences out of 15000+600000
  569684 words of font info for 127 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 110i,26n,117p,2359b,1069s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 110i,26n,117p,2359b,1068s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.xdv (156 pages, 2896072 bytes).
+Output written on main.xdv (158 pages, 2925512 bytes).

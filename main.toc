@@ -15,99 +15,99 @@
 \contentsline {subsection}{\numberline {2.2.3}Career Clusters Interest Survey}{21}{subsection.2.2.3}%
 \contentsline {subsection}{\numberline {2.2.4}MCDM - Multiple-criteria decision-making }{23}{subsection.2.2.4}%
 \contentsline {subsection}{\numberline {2.2.5}VIKOR}{30}{subsection.2.2.5}%
-\contentsline {subsection}{\numberline {2.2.6}Weighted-sum}{32}{subsection.2.2.6}%
-\contentsline {subsection}{\numberline {2.2.7}Python và các thư viện liên quan}{33}{subsection.2.2.7}%
+\contentsline {subsection}{\numberline {2.2.6}Weighted-sum}{33}{subsection.2.2.6}%
+\contentsline {subsection}{\numberline {2.2.7}Python và các thư viện liên quan}{34}{subsection.2.2.7}%
 \contentsline {subsection}{\numberline {2.2.8}MongoDB}{36}{subsection.2.2.8}%
 \contentsline {subsection}{\numberline {2.2.9}ReactJS}{37}{subsection.2.2.9}%
-\contentsline {chapter}{\numberline {3}Phương pháp thực hiện}{38}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Xây dựng hệ cơ sở dữ liệu}{39}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Thu thập, đánh giá MBTI từ người dùng}{41}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Thu thập phân cụm người dùng từ Career Interest Clustering}{45}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Tính toán và xếp hạng kết quả}{49}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Các bài kiểm tra khác}{50}{section.3.5}%
-\contentsline {subsection}{\numberline {3.5.1}IQ Test}{50}{subsection.3.5.1}%
-\contentsline {subsection}{\numberline {3.5.2}EQ Test}{53}{subsection.3.5.2}%
-\contentsline {subsection}{\numberline {3.5.3}Trắc nghiệm 3 thiên hướng học tập}{55}{subsection.3.5.3}%
-\contentsline {subsection}{\numberline {3.5.4}Trắc nghiệm Não Trái - Não Phải}{58}{subsection.3.5.4}%
-\contentsline {subsection}{\numberline {3.5.5}Trắc nghiệm 5 yếu tố tính cách (Big Five Personality)}{60}{subsection.3.5.5}%
-\contentsline {subsection}{\numberline {3.5.6}Trắc nghiệm phong cách làm việc}{66}{subsection.3.5.6}%
+\contentsline {chapter}{\numberline {3}Phương pháp thực hiện}{39}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Xây dựng hệ cơ sở dữ liệu}{40}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Thu thập, đánh giá MBTI từ người dùng}{42}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Thu thập phân cụm người dùng từ Career Interest Clustering}{46}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Tính toán và xếp hạng kết quả}{51}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Các bài kiểm tra khác}{52}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}IQ Test}{52}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}EQ Test}{55}{subsection.3.5.2}%
+\contentsline {subsection}{\numberline {3.5.3}Trắc nghiệm 3 thiên hướng học tập}{57}{subsection.3.5.3}%
+\contentsline {subsection}{\numberline {3.5.4}Trắc nghiệm Não Trái - Não Phải}{60}{subsection.3.5.4}%
+\contentsline {subsection}{\numberline {3.5.5}Trắc nghiệm 5 yếu tố tính cách (Big Five Personality)}{62}{subsection.3.5.5}%
+\contentsline {subsection}{\numberline {3.5.6}Trắc nghiệm phong cách làm việc}{68}{subsection.3.5.6}%
 \contentsline {subsection}{\numberline {3.5.7}Trắc nghiệm tính cách True Color}{70}{subsection.3.5.7}%
 \contentsline {subsection}{\numberline {3.5.8}Trắc nghiệm thang đo bền chí}{72}{subsection.3.5.8}%
-\contentsline {chapter}{\numberline {4}Thiết kế hệ thống}{75}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Yêu cầu chức năng (Functional Requirements)}{75}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Yêu cầu phi chức năng (Non-functional Requirements}{76}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Use-case diagram}{77}{section.4.3}%
-\contentsline {subsection}{\numberline {4.3.1}Use-case Đăng nhập}{77}{subsection.4.3.1}%
-\contentsline {subsection}{\numberline {4.3.2}Use-case Đăng Ký}{78}{subsection.4.3.2}%
-\contentsline {subsection}{\numberline {4.3.3}Use-case Xem thông tin giáo dục}{80}{subsection.4.3.3}%
-\contentsline {subsection}{\numberline {4.3.4}Use-case bài kiểm tra}{80}{subsection.4.3.4}%
-\contentsline {subsection}{\numberline {4.3.5}Use-case Tính toán kết quả}{82}{subsection.4.3.5}%
-\contentsline {subsection}{\numberline {4.3.6}Use-case Xem báo cáo dữ liệu}{84}{subsection.4.3.6}%
-\contentsline {subsection}{\numberline {4.3.7}Use-case Quản lý thông tin cá nhân}{85}{subsection.4.3.7}%
-\contentsline {subsection}{\numberline {4.3.8}Use-case Quản lý tài khoản}{86}{subsection.4.3.8}%
-\contentsline {subsection}{\numberline {4.3.9}Use-case Quản lý kết quả bài kiểm tra}{87}{subsection.4.3.9}%
-\contentsline {section}{\numberline {4.4}Flow chart}{89}{section.4.4}%
+\contentsline {chapter}{\numberline {4}Thiết kế hệ thống}{74}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Yêu cầu chức năng (Functional Requirements)}{74}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Yêu cầu phi chức năng (Non-functional Requirements}{75}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Use-case diagram}{76}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Use-case Đăng nhập}{76}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Use-case Đăng Ký}{77}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Use-case Xem thông tin giáo dục}{79}{subsection.4.3.3}%
+\contentsline {subsection}{\numberline {4.3.4}Use-case bài kiểm tra}{79}{subsection.4.3.4}%
+\contentsline {subsection}{\numberline {4.3.5}Use-case Tính toán kết quả}{81}{subsection.4.3.5}%
+\contentsline {subsection}{\numberline {4.3.6}Use-case Xem báo cáo dữ liệu}{83}{subsection.4.3.6}%
+\contentsline {subsection}{\numberline {4.3.7}Use-case Quản lý thông tin cá nhân}{84}{subsection.4.3.7}%
+\contentsline {subsection}{\numberline {4.3.8}Use-case Quản lý tài khoản}{85}{subsection.4.3.8}%
+\contentsline {subsection}{\numberline {4.3.9}Use-case Quản lý kết quả bài kiểm tra}{86}{subsection.4.3.9}%
+\contentsline {section}{\numberline {4.4}Flow chart}{88}{section.4.4}%
 \contentsline {section}{\numberline {4.5}Activity Diagram}{89}{section.4.5}%
 \contentsline {section}{\numberline {4.6}Hệ cơ sở dữ liệu}{89}{section.4.6}%
 \contentsline {subsection}{\numberline {4.6.1}Lí do sử dụng MongoDB}{89}{subsection.4.6.1}%
-\contentsline {subsection}{\numberline {4.6.2}Cơ sở dữ liệu cho Ikigai Model}{91}{subsection.4.6.2}%
-\contentsline {subsection}{\numberline {4.6.3}Hệ cơ sở dữ liệu cho người dùng}{93}{subsection.4.6.3}%
-\contentsline {chapter}{\numberline {5}Hiện thực hệ thống}{95}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Triển khai hệ thống}{96}{section.5.1}%
-\contentsline {subsection}{\numberline {5.1.1}Môi trường triển khai}{96}{subsection.5.1.1}%
-\contentsline {subsubsection}{\numberline {5.1.1.1}VPS}{96}{subsubsection.5.1.1.1}%
+\contentsline {subsection}{\numberline {4.6.2}Cơ sở dữ liệu cho Ikigai Model}{90}{subsection.4.6.2}%
+\contentsline {subsection}{\numberline {4.6.3}Hệ cơ sở dữ liệu cho người dùng}{92}{subsection.4.6.3}%
+\contentsline {chapter}{\numberline {5}Hiện thực hệ thống}{94}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Triển khai hệ thống}{95}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Môi trường triển khai}{95}{subsection.5.1.1}%
+\contentsline {subsubsection}{\numberline {5.1.1.1}VPS}{95}{subsubsection.5.1.1.1}%
 \contentsline {subsubsection}{\numberline {5.1.1.2}Đăng ký tên miền và chứng chỉ SSL}{96}{subsubsection.5.1.1.2}%
-\contentsline {subsection}{\numberline {5.1.2}Các bước triển khai hệ thống}{97}{subsection.5.1.2}%
-\contentsline {subsubsection}{\numberline {5.1.2.1}Bước 1: Đăng ký VPS}{97}{subsubsection.5.1.2.1}%
+\contentsline {subsection}{\numberline {5.1.2}Các bước triển khai hệ thống}{96}{subsection.5.1.2}%
+\contentsline {subsubsection}{\numberline {5.1.2.1}Bước 1: Đăng ký VPS}{96}{subsubsection.5.1.2.1}%
 \contentsline {subsubsection}{\numberline {5.1.2.2}Bước 2: Truy cập VPS}{97}{subsubsection.5.1.2.2}%
 \contentsline {subsubsection}{\numberline {5.1.2.3}Bước 3: Cài đặt môi trường trên VPS}{97}{subsubsection.5.1.2.3}%
 \contentsline {subsubsection}{\numberline {5.1.2.4}Bước 4: Khởi tạo ứng dụng}{98}{subsubsection.5.1.2.4}%
-\contentsline {subsubsection}{\numberline {5.1.2.5}Bước 5: Đăng ký tên miền}{98}{subsubsection.5.1.2.5}%
+\contentsline {subsubsection}{\numberline {5.1.2.5}Bước 5: Đăng ký tên miền}{99}{subsubsection.5.1.2.5}%
 \contentsline {subsubsection}{\numberline {5.1.2.6}Bước 6: Cấu hình Apache để ánh xạ tên miền}{99}{subsubsection.5.1.2.6}%
-\contentsline {subsection}{\numberline {5.1.3}Kết quả triển khai}{99}{subsection.5.1.3}%
-\contentsline {section}{\numberline {5.2}Giao diện người dùng}{99}{section.5.2}%
-\contentsline {subsection}{\numberline {5.2.1}Trang đăng nhập}{99}{subsection.5.2.1}%
-\contentsline {subsection}{\numberline {5.2.2}Trang đăng ký}{100}{subsection.5.2.2}%
-\contentsline {subsection}{\numberline {5.2.3}Trang chủ}{102}{subsection.5.2.3}%
-\contentsline {subsection}{\numberline {5.2.4}Trang thông tin người dùng}{103}{subsection.5.2.4}%
-\contentsline {subsubsection}{\numberline {5.2.4.1}Trang tài khoản của tôi}{103}{subsubsection.5.2.4.1}%
-\contentsline {subsubsection}{\numberline {5.2.4.2}Trang lịch sử thực hiện kiểm tra}{104}{subsubsection.5.2.4.2}%
-\contentsline {subsubsection}{\numberline {5.2.4.3}Trang cài đặt}{105}{subsubsection.5.2.4.3}%
-\contentsline {subsection}{\numberline {5.2.5}Trang giới thiệu về Ikigai}{106}{subsection.5.2.5}%
-\contentsline {subsection}{\numberline {5.2.6}Trang tin tức}{108}{subsection.5.2.6}%
-\contentsline {subsection}{\numberline {5.2.7}Trang kiểm tra định hướng ngành nghề}{110}{subsection.5.2.7}%
-\contentsline {subsection}{\numberline {5.2.8}Trang kết quả kiểm tra định hướng ngành nghề}{111}{subsection.5.2.8}%
-\contentsline {subsection}{\numberline {5.2.9}Trang giới thiệu trắc nghiệm tính cách MBTI}{113}{subsection.5.2.9}%
-\contentsline {subsection}{\numberline {5.2.10}Trang thực hiện trắc nghiệm tính cách MBTI}{114}{subsection.5.2.10}%
-\contentsline {subsection}{\numberline {5.2.11}Trang giới thiệu trắc nghiệm khám phá năng lực nghề nghiệp}{115}{subsection.5.2.11}%
-\contentsline {subsection}{\numberline {5.2.12}Trang thực hiện trắc nghiệm khám phá năng lực nghề nghiệp}{116}{subsection.5.2.12}%
-\contentsline {subsection}{\numberline {5.2.13}Trang giới thiệu trắc nghiệm IQ}{118}{subsection.5.2.13}%
-\contentsline {subsection}{\numberline {5.2.14}Trang thực hiện trắc nghiệm IQ}{119}{subsection.5.2.14}%
-\contentsline {subsection}{\numberline {5.2.15}Trang giới thiệu trắc nghiệm EQ}{120}{subsection.5.2.15}%
-\contentsline {subsection}{\numberline {5.2.16}Trang thực hiện trắc nghiệm EQ}{121}{subsection.5.2.16}%
-\contentsline {subsection}{\numberline {5.2.17}Trang giới thiệu trắc nghiệm não trái - não phải}{122}{subsection.5.2.17}%
-\contentsline {subsection}{\numberline {5.2.18}Trang thực hiện trắc nghiệm não trái - não phải}{124}{subsection.5.2.18}%
-\contentsline {subsection}{\numberline {5.2.19}Trang giới thiệu trắc nghiệm 3 thiên hướng học tập}{125}{subsection.5.2.19}%
-\contentsline {subsection}{\numberline {5.2.20}Trang thực hiện trắc nghiệm 3 thiên hướng học tập}{126}{subsection.5.2.20}%
-\contentsline {section}{\numberline {5.3}Admin Dashboard}{127}{section.5.3}%
-\contentsline {subsection}{\numberline {5.3.1}Trang đăng nhập}{127}{subsection.5.3.1}%
-\contentsline {subsection}{\numberline {5.3.2}Tổng quan dashboard}{128}{subsection.5.3.2}%
-\contentsline {subsection}{\numberline {5.3.3}Quản lý tài khoản người dùng}{129}{subsection.5.3.3}%
-\contentsline {subsection}{\numberline {5.3.4}Quản lý kết quả kiểm tra}{129}{subsection.5.3.4}%
-\contentsline {subsection}{\numberline {5.3.5}Quản lý khảo sát người dùng}{130}{subsection.5.3.5}%
-\contentsline {subsection}{\numberline {5.3.6}Các biểu đồ so sánh và phân tích}{131}{subsection.5.3.6}%
-\contentsline {subsubsection}{\numberline {5.3.6.1}Độ chính xác của hệ thống}{131}{subsubsection.5.3.6.1}%
-\contentsline {subsubsection}{\numberline {5.3.6.2}Biểu đồ MBTI}{132}{subsubsection.5.3.6.2}%
-\contentsline {subsubsection}{\numberline {5.3.6.3}Biểu đồ Career Clustering}{132}{subsubsection.5.3.6.3}%
-\contentsline {subsection}{\numberline {5.3.7}Phân tích và trực quan hóa dữ liệu}{132}{subsection.5.3.7}%
-\contentsline {chapter}{\numberline {6}Đánh giá kết quả}{134}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Trải nghiệm chung}{134}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Các bài kiểm tra}{135}{section.6.2}%
-\contentsline {chapter}{\numberline {7}Tổng kết}{137}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Đánh giá quá trình}{137}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Đánh giá ưu, nhược điểm của hệ thống}{137}{section.7.2}%
-\contentsline {subsection}{\numberline {7.2.1}Ưu điểm}{137}{subsection.7.2.1}%
-\contentsline {subsection}{\numberline {7.2.2}Thảo luận}{139}{subsection.7.2.2}%
-\contentsline {section}{\numberline {7.3}Định hướng phát triển}{139}{section.7.3}%
-\contentsline {section}{\numberline {7.4}Kết quả}{140}{section.7.4}%
-\contentsline {chapter}{Tài liệu tham khảo}{142}{section*.91}%
+\contentsline {subsection}{\numberline {5.1.3}Kết quả triển khai}{100}{subsection.5.1.3}%
+\contentsline {section}{\numberline {5.2}Giao diện người dùng}{100}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Trang đăng nhập}{100}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Trang đăng ký}{101}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}Trang chủ}{103}{subsection.5.2.3}%
+\contentsline {subsection}{\numberline {5.2.4}Trang thông tin người dùng}{104}{subsection.5.2.4}%
+\contentsline {subsubsection}{\numberline {5.2.4.1}Trang tài khoản của tôi}{104}{subsubsection.5.2.4.1}%
+\contentsline {subsubsection}{\numberline {5.2.4.2}Trang lịch sử thực hiện kiểm tra}{105}{subsubsection.5.2.4.2}%
+\contentsline {subsubsection}{\numberline {5.2.4.3}Trang cài đặt}{106}{subsubsection.5.2.4.3}%
+\contentsline {subsection}{\numberline {5.2.5}Trang giới thiệu về Ikigai}{107}{subsection.5.2.5}%
+\contentsline {subsection}{\numberline {5.2.6}Trang tin tức}{109}{subsection.5.2.6}%
+\contentsline {subsection}{\numberline {5.2.7}Trang kiểm tra định hướng ngành nghề}{111}{subsection.5.2.7}%
+\contentsline {subsection}{\numberline {5.2.8}Trang kết quả kiểm tra định hướng ngành nghề}{112}{subsection.5.2.8}%
+\contentsline {subsection}{\numberline {5.2.9}Trang giới thiệu trắc nghiệm tính cách MBTI}{114}{subsection.5.2.9}%
+\contentsline {subsection}{\numberline {5.2.10}Trang thực hiện trắc nghiệm tính cách MBTI}{115}{subsection.5.2.10}%
+\contentsline {subsection}{\numberline {5.2.11}Trang giới thiệu trắc nghiệm khám phá năng lực nghề nghiệp}{116}{subsection.5.2.11}%
+\contentsline {subsection}{\numberline {5.2.12}Trang thực hiện trắc nghiệm khám phá năng lực nghề nghiệp}{117}{subsection.5.2.12}%
+\contentsline {subsection}{\numberline {5.2.13}Trang giới thiệu trắc nghiệm IQ}{119}{subsection.5.2.13}%
+\contentsline {subsection}{\numberline {5.2.14}Trang thực hiện trắc nghiệm IQ}{120}{subsection.5.2.14}%
+\contentsline {subsection}{\numberline {5.2.15}Trang giới thiệu trắc nghiệm EQ}{121}{subsection.5.2.15}%
+\contentsline {subsection}{\numberline {5.2.16}Trang thực hiện trắc nghiệm EQ}{122}{subsection.5.2.16}%
+\contentsline {subsection}{\numberline {5.2.17}Trang giới thiệu trắc nghiệm não trái - não phải}{123}{subsection.5.2.17}%
+\contentsline {subsection}{\numberline {5.2.18}Trang thực hiện trắc nghiệm não trái - não phải}{125}{subsection.5.2.18}%
+\contentsline {subsection}{\numberline {5.2.19}Trang giới thiệu trắc nghiệm 3 thiên hướng học tập}{126}{subsection.5.2.19}%
+\contentsline {subsection}{\numberline {5.2.20}Trang thực hiện trắc nghiệm 3 thiên hướng học tập}{127}{subsection.5.2.20}%
+\contentsline {section}{\numberline {5.3}Admin Dashboard}{128}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Trang đăng nhập}{128}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}Tổng quan dashboard}{129}{subsection.5.3.2}%
+\contentsline {subsection}{\numberline {5.3.3}Quản lý tài khoản người dùng}{130}{subsection.5.3.3}%
+\contentsline {subsection}{\numberline {5.3.4}Quản lý kết quả kiểm tra}{130}{subsection.5.3.4}%
+\contentsline {subsection}{\numberline {5.3.5}Quản lý khảo sát người dùng}{131}{subsection.5.3.5}%
+\contentsline {subsection}{\numberline {5.3.6}Các biểu đồ so sánh và phân tích}{132}{subsection.5.3.6}%
+\contentsline {subsubsection}{\numberline {5.3.6.1}Độ chính xác của hệ thống}{132}{subsubsection.5.3.6.1}%
+\contentsline {subsubsection}{\numberline {5.3.6.2}Biểu đồ MBTI}{133}{subsubsection.5.3.6.2}%
+\contentsline {subsubsection}{\numberline {5.3.6.3}Biểu đồ Career Clustering}{133}{subsubsection.5.3.6.3}%
+\contentsline {subsection}{\numberline {5.3.7}Phân tích và trực quan hóa dữ liệu}{133}{subsection.5.3.7}%
+\contentsline {chapter}{\numberline {6}Đánh giá kết quả}{135}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Trải nghiệm người dùng}{135}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Các bài kiểm tra}{136}{section.6.2}%
+\contentsline {chapter}{\numberline {7}Tổng kết}{138}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Đánh giá quá trình}{138}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Đánh giá ưu, nhược điểm của hệ thống}{138}{section.7.2}%
+\contentsline {subsection}{\numberline {7.2.1}Ưu điểm}{138}{subsection.7.2.1}%
+\contentsline {subsection}{\numberline {7.2.2}Thảo luận}{140}{subsection.7.2.2}%
+\contentsline {section}{\numberline {7.3}Định hướng phát triển}{140}{section.7.3}%
+\contentsline {section}{\numberline {7.4}Kết quả}{141}{section.7.4}%
+\contentsline {chapter}{Tài liệu tham khảo}{143}{section*.98}%

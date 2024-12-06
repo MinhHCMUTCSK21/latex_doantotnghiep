@@ -1,7 +1,7 @@
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {1.1}{\ignorespaces Sơ đồ venn Ikigai}}{3}{figure.caption.9}%
-\contentsline {figure}{\numberline {1.2}{\ignorespaces Chứng nhận đã thuyết trình ở hội nghị MMMS2024 của đề tà}}{5}{figure.caption.10}%
-\contentsline {figure}{\numberline {1.3}{\ignorespaces Chứng nhận đã thuyết trình ở hội nghị MMMS2024 của đề tà}}{5}{figure.caption.11}%
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Chứng nhận đã thuyết trình ở hội nghị MMMS2024 của đề tài}}{5}{figure.caption.10}%
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Chứng nhận đã được chấp thuận thông qua ở hội nghị MMMS2024 của đề tà}}{5}{figure.caption.11}%
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {2.1}{\ignorespaces Sơ đồ Venn mục đích của Zuzunaga}}{17}{figure.caption.12}%
 \contentsline {figure}{\numberline {2.2}{\ignorespaces Ý nghĩa những chữ cái trong tính cách MBTI}}{20}{figure.caption.13}%
@@ -13,60 +13,67 @@
 \contentsline {figure}{\numberline {2.8}{\ignorespaces Tổng hợp giải thuật MCDM \cite {pijush}}}{28}{figure.caption.19}%
 \contentsline {figure}{\numberline {2.9}{\ignorespaces Sự gia tăng việc sử dụng phương pháp MCDM trong nghiên cứu}}{29}{figure.caption.20}%
 \contentsline {figure}{\numberline {2.10}{\ignorespaces Các lĩnh vực nghiên cứu bằng phương pháp MCDM}}{29}{figure.caption.21}%
-\contentsline {figure}{\numberline {2.11}{\ignorespaces Các bước trong quy trình }}{30}{figure.caption.22}%
+\contentsline {figure}{\numberline {2.11}{\ignorespaces Các bước trong quy trình }}{31}{figure.caption.22}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Sơ đồ activyty diagram- sơ đồ hoạt động chính của thuật toán}}{38}{figure.caption.24}%
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Hình ảnh cơ sở dữ liệu cho thuật toán}}{39}{figure.caption.25}%
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Thông tin về Phòng Công nghệ và Giáo dục Oklahoma, Mỹ}}{39}{figure.caption.26}%
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Trang web VietnamSalary}}{40}{figure.caption.27}%
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Bảng phân loại tính cách MBTI}}{44}{figure.caption.28}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Sơ đồ activyty diagram- sơ đồ hoạt động chính của thuật toán}}{40}{figure.caption.24}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Hình ảnh cơ sở dữ liệu cho thuật toán}}{40}{figure.caption.25}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Thông tin về Phòng Công nghệ và Giáo dục Oklahoma, Mỹ}}{41}{figure.caption.26}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Trang web VietnamSalary}}{41}{figure.caption.27}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Bảng phân loại tính cách MBTI}}{46}{figure.caption.28}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Use-case Diagram hệ thống}}{77}{figure.caption.38}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Use-case Diagram hệ thống}}{76}{figure.caption.38}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Flow chart cho hệ thống }}{88}{figure.caption.39}%
 \contentsline {figure}{\numberline {4.3}{\ignorespaces Activity diagram cho chức năng chính của hệ thống }}{89}{figure.caption.40}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Flow chart cho hệ thống }}{90}{figure.caption.39}%
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Hệ cơ sở dữ liệu}}{93}{figure.caption.46}%
-\contentsline {figure}{\numberline {4.5}{\ignorespaces Hệ cơ sở dữ liệu}}{93}{figure.caption.47}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Hệ cơ sở dữ liệu}}{91}{figure.caption.46}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Hệ cơ sở dữ liệu}}{92}{figure.caption.47}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Hệ thống}}{96}{figure.caption.48}%
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Đăng ký tên miền}}{98}{figure.caption.49}%
-\contentsline {figure}{\numberline {5.3}{\ignorespaces Thiết lập DNS}}{98}{figure.caption.50}%
-\contentsline {figure}{\numberline {5.4}{\ignorespaces Trang đăng nhập}}{100}{figure.caption.51}%
-\contentsline {figure}{\numberline {5.5}{\ignorespaces Trang đăng ký}}{101}{figure.caption.52}%
-\contentsline {figure}{\numberline {5.6}{\ignorespaces Trang chủ}}{102}{figure.caption.53}%
-\contentsline {figure}{\numberline {5.7}{\ignorespaces Trang tài khoản của tôi}}{103}{figure.caption.54}%
-\contentsline {figure}{\numberline {5.8}{\ignorespaces Trang lịch sử thực hiện kiểm tra}}{104}{figure.caption.55}%
-\contentsline {figure}{\numberline {5.9}{\ignorespaces Trang cài đặt}}{105}{figure.caption.56}%
-\contentsline {figure}{\numberline {5.10}{\ignorespaces Trang giới thiệu về Ikigai}}{107}{figure.caption.57}%
-\contentsline {figure}{\numberline {5.11}{\ignorespaces Trang tin tức}}{109}{figure.caption.58}%
-\contentsline {figure}{\numberline {5.12}{\ignorespaces Trang kiểm tra định hướng ngành nghề}}{110}{figure.caption.59}%
-\contentsline {figure}{\numberline {5.13}{\ignorespaces Trang kết quả kiểm tra định hướng ngành nghề}}{112}{figure.caption.60}%
-\contentsline {figure}{\numberline {5.14}{\ignorespaces Trang giới thiệu trắc nghiệm tính cách MBTI}}{114}{figure.caption.61}%
-\contentsline {figure}{\numberline {5.15}{\ignorespaces Trang thực hiện trắc nghiệm tính cách MBTI}}{115}{figure.caption.62}%
-\contentsline {figure}{\numberline {5.16}{\ignorespaces Trang giới thiệu trắc nghiệm khám phá năng lực nghề nghiệp}}{116}{figure.caption.63}%
-\contentsline {figure}{\numberline {5.17}{\ignorespaces Trang thực hiện trắc nghiệm khám phá năng lực nghề nghiệp}}{117}{figure.caption.64}%
-\contentsline {figure}{\numberline {5.18}{\ignorespaces Trang giới thiệu trắc nghiệm IQ}}{119}{figure.caption.65}%
-\contentsline {figure}{\numberline {5.19}{\ignorespaces Trang thực hiện trắc nghiệm IQ}}{120}{figure.caption.66}%
-\contentsline {figure}{\numberline {5.20}{\ignorespaces Trang giới thiệu trắc nghiệm EQ}}{121}{figure.caption.67}%
-\contentsline {figure}{\numberline {5.21}{\ignorespaces Trang thực hiện trắc nghiệm EQ}}{122}{figure.caption.68}%
-\contentsline {figure}{\numberline {5.22}{\ignorespaces Trang giới thiệu trắc nghiệm não trái - não phải}}{123}{figure.caption.69}%
-\contentsline {figure}{\numberline {5.23}{\ignorespaces Trang thực hiện trắc nghiệm não trái - não phải}}{124}{figure.caption.70}%
-\contentsline {figure}{\numberline {5.24}{\ignorespaces Trang giới thiệu trắc nghiệm 3 thiên hướng học tập}}{125}{figure.caption.71}%
-\contentsline {figure}{\numberline {5.25}{\ignorespaces Trang thực hiện trắc nghiệm 3 thiên hướng học tập}}{127}{figure.caption.72}%
-\contentsline {figure}{\numberline {5.26}{\ignorespaces Trang đăng nhập cho Admin Dashboard}}{127}{figure.caption.73}%
-\contentsline {figure}{\numberline {5.27}{\ignorespaces Trang tổng quan dashboard}}{128}{figure.caption.74}%
-\contentsline {figure}{\numberline {5.28}{\ignorespaces Giao diện quản lý tài khoản người dùng}}{129}{figure.caption.75}%
-\contentsline {figure}{\numberline {5.29}{\ignorespaces Giao diện quản lý kết quả kiểm tra}}{129}{figure.caption.76}%
-\contentsline {figure}{\numberline {5.30}{\ignorespaces Giao diện quản lý khảo sát người dùng}}{130}{figure.caption.77}%
-\contentsline {figure}{\numberline {5.31}{\ignorespaces Độ chính xác của hệ thống do người dùng đánh giá}}{131}{figure.caption.78}%
-\contentsline {figure}{\numberline {5.32}{\ignorespaces Biểu đồ so sánh độ chính xác với các hệ thống tương tự}}{131}{figure.caption.79}%
-\contentsline {figure}{\numberline {5.33}{\ignorespaces Biểu đồ phân bố các nhóm tính cách MBTI dựa trên kết quả kiểm tra của người dùng}}{132}{figure.caption.80}%
-\contentsline {figure}{\numberline {5.34}{\ignorespaces Biểu đồ phân bố các nhóm nghề nghiệp dựa trên kết quả kiểm tra của người dùng}}{132}{figure.caption.81}%
-\contentsline {figure}{\numberline {5.35}{\ignorespaces Giao diện truy vấn trực tiếp dữ liệu}}{132}{figure.caption.82}%
-\contentsline {figure}{\numberline {5.36}{\ignorespaces Giao diện trực quan hóa dữ liệu}}{133}{figure.caption.83}%
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Hệ thống}}{95}{figure.caption.48}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Thông tin VPS}}{96}{figure.caption.49}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Giao diện thuê VPS}}{96}{figure.caption.50}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Biểu đồ sử dụng tài nguyên}}{97}{figure.caption.51}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Yêu cầu về tài nguyên}}{97}{figure.caption.52}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Triển khai ứng dụng trên Docker}}{98}{figure.caption.53}%
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Đăng ký tên miền}}{99}{figure.caption.54}%
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Thiết lập DNS}}{99}{figure.caption.55}%
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Hình trên mô tả quy trình cấu hình Apache trên terminal}}{100}{figure.caption.56}%
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Hình trên mô tả quy trình khởi động lại apache sau khi kích hoạt cấu hình myproxy}}{100}{figure.caption.57}%
+\contentsline {figure}{\numberline {5.11}{\ignorespaces Trang đăng nhập}}{101}{figure.caption.58}%
+\contentsline {figure}{\numberline {5.12}{\ignorespaces Trang đăng ký}}{102}{figure.caption.59}%
+\contentsline {figure}{\numberline {5.13}{\ignorespaces Trang chủ}}{103}{figure.caption.60}%
+\contentsline {figure}{\numberline {5.14}{\ignorespaces Trang tài khoản của tôi}}{104}{figure.caption.61}%
+\contentsline {figure}{\numberline {5.15}{\ignorespaces Trang lịch sử thực hiện kiểm tra}}{105}{figure.caption.62}%
+\contentsline {figure}{\numberline {5.16}{\ignorespaces Trang cài đặt}}{106}{figure.caption.63}%
+\contentsline {figure}{\numberline {5.17}{\ignorespaces Trang giới thiệu về Ikigai}}{108}{figure.caption.64}%
+\contentsline {figure}{\numberline {5.18}{\ignorespaces Trang tin tức}}{110}{figure.caption.65}%
+\contentsline {figure}{\numberline {5.19}{\ignorespaces Trang kiểm tra định hướng ngành nghề}}{111}{figure.caption.66}%
+\contentsline {figure}{\numberline {5.20}{\ignorespaces Trang kết quả kiểm tra định hướng ngành nghề}}{113}{figure.caption.67}%
+\contentsline {figure}{\numberline {5.21}{\ignorespaces Trang giới thiệu trắc nghiệm tính cách MBTI}}{115}{figure.caption.68}%
+\contentsline {figure}{\numberline {5.22}{\ignorespaces Trang thực hiện trắc nghiệm tính cách MBTI}}{116}{figure.caption.69}%
+\contentsline {figure}{\numberline {5.23}{\ignorespaces Trang giới thiệu trắc nghiệm khám phá năng lực nghề nghiệp}}{117}{figure.caption.70}%
+\contentsline {figure}{\numberline {5.24}{\ignorespaces Trang thực hiện trắc nghiệm khám phá năng lực nghề nghiệp}}{118}{figure.caption.71}%
+\contentsline {figure}{\numberline {5.25}{\ignorespaces Trang giới thiệu trắc nghiệm IQ}}{120}{figure.caption.72}%
+\contentsline {figure}{\numberline {5.26}{\ignorespaces Trang thực hiện trắc nghiệm IQ}}{121}{figure.caption.73}%
+\contentsline {figure}{\numberline {5.27}{\ignorespaces Trang giới thiệu trắc nghiệm EQ}}{122}{figure.caption.74}%
+\contentsline {figure}{\numberline {5.28}{\ignorespaces Trang thực hiện trắc nghiệm EQ}}{123}{figure.caption.75}%
+\contentsline {figure}{\numberline {5.29}{\ignorespaces Trang giới thiệu trắc nghiệm não trái - não phải}}{124}{figure.caption.76}%
+\contentsline {figure}{\numberline {5.30}{\ignorespaces Trang thực hiện trắc nghiệm não trái - não phải}}{125}{figure.caption.77}%
+\contentsline {figure}{\numberline {5.31}{\ignorespaces Trang giới thiệu trắc nghiệm 3 thiên hướng học tập}}{126}{figure.caption.78}%
+\contentsline {figure}{\numberline {5.32}{\ignorespaces Trang thực hiện trắc nghiệm 3 thiên hướng học tập}}{128}{figure.caption.79}%
+\contentsline {figure}{\numberline {5.33}{\ignorespaces Trang đăng nhập cho Admin Dashboard}}{128}{figure.caption.80}%
+\contentsline {figure}{\numberline {5.34}{\ignorespaces Trang tổng quan dashboard}}{129}{figure.caption.81}%
+\contentsline {figure}{\numberline {5.35}{\ignorespaces Giao diện quản lý tài khoản người dùng}}{130}{figure.caption.82}%
+\contentsline {figure}{\numberline {5.36}{\ignorespaces Giao diện quản lý kết quả kiểm tra}}{130}{figure.caption.83}%
+\contentsline {figure}{\numberline {5.37}{\ignorespaces Giao diện quản lý khảo sát người dùng}}{131}{figure.caption.84}%
+\contentsline {figure}{\numberline {5.38}{\ignorespaces Độ chính xác của hệ thống do người dùng đánh giá}}{132}{figure.caption.85}%
+\contentsline {figure}{\numberline {5.39}{\ignorespaces Biểu đồ so sánh độ chính xác với các hệ thống tương tự}}{132}{figure.caption.86}%
+\contentsline {figure}{\numberline {5.40}{\ignorespaces Biểu đồ phân bố các nhóm tính cách MBTI dựa trên kết quả kiểm tra của người dùng}}{133}{figure.caption.87}%
+\contentsline {figure}{\numberline {5.41}{\ignorespaces Biểu đồ phân bố các nhóm nghề nghiệp dựa trên kết quả kiểm tra của người dùng}}{133}{figure.caption.88}%
+\contentsline {figure}{\numberline {5.42}{\ignorespaces Giao diện truy vấn trực tiếp dữ liệu}}{133}{figure.caption.89}%
+\contentsline {figure}{\numberline {5.43}{\ignorespaces Giao diện trực quan hóa dữ liệu}}{134}{figure.caption.90}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {6.1}{\ignorespaces Khảo sát trải nghiệm chung về hệ thống}}{134}{figure.caption.84}%
-\contentsline {figure}{\numberline {6.2}{\ignorespaces Khảo sát về bài kiểm tra MBTI}}{136}{figure.caption.87}%
-\contentsline {figure}{\numberline {6.3}{\ignorespaces Khảo sát về bài kiểm tra Career Clustering}}{136}{figure.caption.88}%
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Khảo sát trải nghiệm chung về hệ thống}}{135}{figure.caption.91}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Khảo sát về bài kiểm tra MBTI}}{137}{figure.caption.94}%
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Khảo sát về bài kiểm tra Career Clustering}}{137}{figure.caption.95}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {7.1}{\ignorespaces Chứng nhận đã thuyết trình ở hội nghị MMMS2024 của đề tà}}{138}{figure.caption.89}%
-\contentsline {figure}{\numberline {7.2}{\ignorespaces Chứng nhận đã thuyết trình ở hội nghị MMMS2024 của đề tà}}{139}{figure.caption.90}%
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Chứng nhận đã thuyết trình ở hội nghị MMMS2024 của đề tà}}{139}{figure.caption.96}%
+\contentsline {figure}{\numberline {7.2}{\ignorespaces Chứng nhận đã thuyết trình ở hội nghị MMMS2024 của đề tà}}{140}{figure.caption.97}%
