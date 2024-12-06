@@ -1,12 +1,12 @@
 # Fdb version 4
-["xdvipdfmx"] 1733455742.20434 "main.xdv" "main.pdf" "main" 1733455779.52222 0
-  "main.xdv" 1733455741 2925512 d5bc9b536cd67b892cb9f2ec2b79274c "xelatex"
+["xdvipdfmx"] 1733456924.21922 "main.xdv" "main.pdf" "main" 1733456957.02078 0
+  "main.xdv" 1733456923 2925784 ef24a99d0ead3c8fe4ebd54294ecebe2 "xelatex"
   (generated)
   "main.pdf"
   (rewritten before read)
-["xelatex"] 1733455731.35654 "d:/Latex/main.tex" "main.xdv" "main" 1733455779.50479 0
+["xelatex"] 1733456916.02142 "d:/Latex/main.tex" "main.xdv" "main" 1733456957.00409 0
   "Bibliocosas/glossary.tex" 1732551964 3849 ce785b3ede1e5419d52a50780d60c31b ""
-  "Bibliocosas/titlepage.tex" 1732551964 2881 4e45f880a6cfe05e3db40bed59b28eb3 ""
+  "Bibliocosas/titlepage.tex" 1733456915 2900 78acf72435c4f0b994c5404662006ebb ""
   "C:/Users/Admin/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1732579565 25348372 e372ba6ae50d71510794d3b9434c0a5f ""
   "C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136747054 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -352,12 +352,12 @@
   "images/ws4.png" 1733131334 33507 5d52b688ab1f44d40ff166b79f681eff ""
   "images/zuzunaga.png" 1733131334 146475 78a4c422d86126c167d19afdeb41779d ""
   "main.acr" 0 -1 0 ""
-  "main.aux" 1733455741 35070 a5ac4fd3e3b95a12d15d3eefd3b826be "xelatex"
-  "main.lof" 1733455741 9493 4e6e995fa555817a2025b00d22b48563 "xelatex"
-  "main.lot" 1733455741 1082 f011ec1f6ffbae2b167a8fad85ff963c "xelatex"
-  "main.out" 1733455741 21305 35d4c830061cac55498de01be2d6646e "xelatex"
+  "main.aux" 1733456923 35070 a5ac4fd3e3b95a12d15d3eefd3b826be "xelatex"
+  "main.lof" 1733456923 9493 4e6e995fa555817a2025b00d22b48563 "xelatex"
+  "main.lot" 1733456923 1082 f011ec1f6ffbae2b167a8fad85ff963c "xelatex"
+  "main.out" 1733456923 21305 35d4c830061cac55498de01be2d6646e "xelatex"
   "main.tex" 1732608500 9756 1cc58640731b83756e76251a68fc4e58 ""
-  "main.toc" 1733455741 11498 699aa9e03e089873002e23f7520af236 "xelatex"
+  "main.toc" 1733456923 11498 699aa9e03e089873002e23f7520af236 "xelatex"
   "mbtiChart.png" 1732551964 62964 e4858a795d3cc4a70617c414895573e8 ""
   (generated)
   "main.acn"
