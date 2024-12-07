@@ -8,8 +8,8 @@ MongoDB được lựa chọn vì nhiều ưu điểm:
 \end{itemize}
 \subsection{Cơ sở dữ liệu cho Ikigai Model}
 \indent Hệ cơ sở dữ liệu được thiết kế cho Ikigai Model bao gồm 5 bảng như đã giới thiệu trong chương 3, phần 3.1. Phần này sẽ nói rõ cách hiện thực của nhóm trên cơ sở dữ liệu MongoDB
-\indent Sau khi thu thập dữ liệu và tiến hành sử lí dữ liệu bằng pandas python sau đó chuyển những dữ liệu bao gồm các bảng chứa các document nhóm đã trình bày ở phần trên thành các file có định dạng  csv(comma-separated value) với mỗi hàng trong file là 1 document và 1 bảng là 1 file tương ứng. Sau đó nhập vào MongoDB từ chức năng "import csv" mà MongoDB cung cấp. \\
-\indent Phần tiếp sau dây miêu tả trực tiếp mỗi bảng, vì mongoDB không yêu cầu kiểu dữ liệu, nhưng khi nhóm sử lí dữ liệu bằng pandas như đã nêu ở trên thì mỗi cột đều có kiểu dữ liệu riêng do đó ở phần này nhóm vẫn để kiểu dữ liệu vào trong phần giải thích để có cái nhìn tổng quan hơn về các documnet. \\
+\indent Sau khi thu thập dữ liệu và tiến hành xử lí dữ liệu bằng pandas python sau đó chuyển những dữ liệu bao gồm các bảng chứa các document nhóm đã trình bày ở phần trên thành các file có định dạng  csv(comma-separated value) với mỗi hàng trong file là 1 document và 1 bảng là 1 file tương ứng. Sau đó nhập vào MongoDB từ chức năng "import csv" mà MongoDB cung cấp. \\
+\indent Phần tiếp sau dây miêu tả trực tiếp mỗi bảng, vì mongoDB không yêu cầu kiểu dữ liệu, nhưng khi nhóm xử lí dữ liệu bằng pandas như đã nêu ở trên thì mỗi cột đều có kiểu dữ liệu riêng do đó ở phần này nhóm vẫn để kiểu dữ liệu vào trong phần giải thích để có cái nhìn tổng quan hơn về các documnet. \\
 \newline
 \indent Đối với dữ liệu của bài kiểm tra MBTI mỗi document bao gồm:
 \begin{table}[H]
