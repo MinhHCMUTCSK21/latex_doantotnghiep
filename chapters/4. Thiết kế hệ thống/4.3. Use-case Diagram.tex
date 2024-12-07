@@ -437,48 +437,97 @@
     \end{longtable}
 
 \subsection{Use-case Quản lý thông tin cá nhân}
+% \begin{longtable}[H]{|l|p{0.7\textwidth}|}
+%     \caption{Use-case Quản lý thông tin cá nhân} \\
+%     \hline
+%     \textbf{Tên use-case} & Quản lý thông tin cá nhân \\
+%     \hline
+%     \textbf{Actor} & Người dùng \\
+%     \hline
+%     \textbf{Descriptions} & Chức năng này cho phép người dùng quản lý thông tin cá nhân của họ, bao gồm chỉnh sửa thông tin cơ bản như tên, ngày sinh, giới tính, email, số điện thoại, và mật khẩu. \\
+%     \hline
+%     \textbf{Pre-conditions} & 
+%     \begin{itemize}[leftmargin=4mm]
+%         \item Người dùng đã đăng nhập vào hệ thống.
+%         \item Trang hồ sơ cá nhân có thể truy cập được.
+%     \end{itemize} \\
+%     \hline
+%     \textbf{Post-conditions} & 
+%     \begin{itemize}[leftmargin=4mm]
+%         \item Thông tin cá nhân được cập nhật thành công và lưu trữ trong cơ sở dữ liệu.
+%         \item Người dùng có thể xem lại thông tin cá nhân sau khi chỉnh sửa.
+%     \end{itemize} \\
+%     \hline
+%     \textbf{Normal Flow} &  
+%     \begin{enumerate}[leftmargin=5.5mm]
+%         \item Người dùng truy cập trang Hồ sơ cá nhân.
+%         \item Hệ thống hiển thị thông tin hiện tại của người dùng.
+%         \item Người dùng chọn "Chỉnh sửa" để thay đổi thông tin cá nhân.
+%         \item Người dùng cập nhật thông tin và nhấn "Lưu thay đổi".
+%         \item Hệ thống lưu trữ thông tin cập nhật và hiển thị thông báo thành công.
+%     \end{enumerate} \\
+%     \hline
+%     \textbf{Alternative Flow} & 
+%     \begin{itemize}[leftmargin=4mm]
+%         \item Người dùng chọn "Hủy" khi chỉnh sửa, hệ thống giữ nguyên thông tin cũ.
+%     \end{itemize} \\
+%     \hline
+%     \textbf{Exception Flow} & 
+%     \begin{enumerate}[leftmargin=5.5mm]
+%         \item Lỗi kết nối mạng: Hệ thống hiển thị thông báo lỗi và yêu cầu người dùng thử lại.
+%         \item Dữ liệu không hợp lệ: Hệ thống hiển thị thông báo lỗi cho người dùng (ví dụ: email không đúng định dạng).
+%     \end{enumerate} \\
+%     \hline
+% \end{longtable}
 
 \begin{longtable}[H]{|l|p{0.7\textwidth}|}
-    \caption{Use-case Quản lý thông tin cá nhân} \\
-    \hline
-    \textbf{Tên use-case} & Quản lý thông tin cá nhân \\
+    \caption{Use-case Quản lý thông tin cá nhân}
+    \\ \hline
+    \textbf{Tên use-case} & Quản lý thông tin cá nhân\\
     \hline
     \textbf{Actor} & Người dùng \\
     \hline
     \textbf{Descriptions} & Chức năng này cho phép người dùng quản lý thông tin cá nhân của họ, bao gồm chỉnh sửa thông tin cơ bản như tên, ngày sinh, giới tính, email, số điện thoại, và mật khẩu. \\
     \hline
-    \textbf{Pre-conditions} & 
-    \begin{itemize}[leftmargin=4mm]
+    \textbf{Pre-conditions} & \vspace{-0.75cm} \begin{itemize}[leftmargin=4mm]
+        \setlength\itemsep{0em}
         \item Người dùng đã đăng nhập vào hệ thống.
         \item Trang hồ sơ cá nhân có thể truy cập được.
     \end{itemize} \\
+    
     \hline
-    \textbf{Post-conditions} & 
-    \begin{itemize}[leftmargin=4mm]
+
+    \textbf{Post-conditions} & \vspace{-0.75cm} \begin{itemize}[leftmargin=4mm]
+        \setlength\itemsep{0em}
         \item Thông tin cá nhân được cập nhật thành công và lưu trữ trong cơ sở dữ liệu.
         \item Người dùng có thể xem lại thông tin cá nhân sau khi chỉnh sửa.
     \end{itemize} \\
+        
     \hline
-    \textbf{Normal Flow} &  
-    \begin{enumerate}[leftmargin=5.5mm]
-        \item Người dùng truy cập trang Hồ sơ cá nhân.
-        \item Hệ thống hiển thị thông tin hiện tại của người dùng.
-        \item Người dùng chọn "Chỉnh sửa" để thay đổi thông tin cá nhân.
-        \item Người dùng cập nhật thông tin và nhấn "Lưu thay đổi".
-        \item Hệ thống lưu trữ thông tin cập nhật và hiển thị thông báo thành công.
-    \end{enumerate} \\
+    \textbf{Normal Flow} & \vspace{-0.75cm}
+        \begin{enumerate}[leftmargin=5.5mm]
+            \setlength\itemsep{0em}
+            \item Người dùng truy cập trang Hồ sơ cá nhân.
+            \item Hệ thống hiển thị thông tin hiện tại của người dùng.
+            \item Người dùng chọn "Chỉnh sửa" để thay đổi thông tin cá nhân.
+            \item Người dùng cập nhật thông tin và nhấn "Lưu thay đổi".
+            \item Hệ thống lưu trữ thông tin cập nhật và hiển thị thông báo thành công.
+        \end{enumerate}\\
+        
     \hline
-    \textbf{Alternative Flow} & 
-    \begin{itemize}[leftmargin=4mm]
+    
+    \textbf{Alternative Flow} & \vspace{-0.75cm} \begin{itemize}[leftmargin=4mm]
         \item Người dùng chọn "Hủy" khi chỉnh sửa, hệ thống giữ nguyên thông tin cũ.
     \end{itemize} \\
+    
     \hline
-    \textbf{Exception Flow} & 
-    \begin{enumerate}[leftmargin=5.5mm]
+    
+    \textbf{Exception Flow} & \vspace{-0.75cm} \begin{enumerate}[leftmargin=5.5mm]
+        \setlength\itemsep{0em}
         \item Lỗi kết nối mạng: Hệ thống hiển thị thông báo lỗi và yêu cầu người dùng thử lại.
         \item Dữ liệu không hợp lệ: Hệ thống hiển thị thông báo lỗi cho người dùng (ví dụ: email không đúng định dạng).
-    \end{enumerate} \\
-    \hline
+    \end{enumerate}\\
+    \hline 
 \end{longtable}
 
 \subsection{Use-case Quản lý tài khoản}
@@ -491,19 +540,19 @@
     \hline
     \textbf{Descriptions} & Chức năng này cho phép quản trị viên quản lý danh sách tài khoản người dùng, bao gồm thêm mới, chỉnh sửa thông tin, khóa/mở khóa tài khoản, và xóa tài khoản. \\
     \hline
-    \textbf{Pre-conditions} & 
+    \textbf{Pre-conditions} & \vspace{-0.75cm}
     \begin{itemize}[leftmargin=4mm]
         \item Quản trị viên đã đăng nhập vào hệ thống với quyền quản trị.
         \item Danh sách tài khoản người dùng có thể truy cập được.
     \end{itemize} \\
     \hline
-    \textbf{Post-conditions} & 
+    \textbf{Post-conditions} & \vspace{-0.75cm}
     \begin{itemize}[leftmargin=4mm]
         \item Danh sách tài khoản được cập nhật thành công.
         \item Người dùng bị khóa sẽ không thể đăng nhập vào hệ thống.
     \end{itemize} \\
     \hline
-    \textbf{Normal Flow} &  
+    \textbf{Normal Flow} &  \vspace{-0.75cm}
     \begin{enumerate}[leftmargin=5.5mm]
         \item Quản trị viên truy cập trang Quản lý tài khoản.
         \item Hệ thống hiển thị danh sách tài khoản hiện tại.
@@ -511,12 +560,12 @@
         \item Hệ thống lưu thay đổi và hiển thị thông báo thành công.
     \end{enumerate} \\
     \hline
-    \textbf{Alternative Flow} & 
+    \textbf{Alternative Flow} & \vspace{-0.75cm}
     \begin{itemize}[leftmargin=4mm]
         \item Quản trị viên có thể tìm kiếm tài khoản dựa trên tên hoặc email.
     \end{itemize} \\
     \hline
-    \textbf{Exception Flow} & 
+    \textbf{Exception Flow} & \vspace{-0.75cm}  
     \begin{enumerate}[leftmargin=5.5mm]
         \item Lỗi hệ thống: Hệ thống ghi lại lỗi và hiển thị thông báo lỗi cho quản trị viên.
         \item Dữ liệu không hợp lệ: Quản trị viên nhập email hoặc thông tin không đúng định dạng.
@@ -534,18 +583,18 @@
     \hline
     \textbf{Descriptions} & Chức năng này cho phép quản trị viên xem, tìm kiếm, và xóa kết quả bài kiểm tra của người dùng. \\
     \hline
-    \textbf{Pre-conditions} & 
+    \textbf{Pre-conditions} & \vspace{-0.75cm}
     \begin{itemize}[leftmargin=4mm]
         \item Quản trị viên đã đăng nhập vào hệ thống với quyền quản trị.
         \item Hệ thống lưu trữ đầy đủ dữ liệu kết quả bài kiểm tra.
     \end{itemize} \\
     \hline
-    \textbf{Post-conditions} & 
+    \textbf{Post-conditions} & \vspace{-0.75cm}
     \begin{itemize}[leftmargin=4mm]
         \item Quản trị viên có thể quản lý và kiểm soát kết quả bài kiểm tra của người dùng.
     \end{itemize} \\
     \hline
-    \textbf{Normal Flow} &  
+    \textbf{Normal Flow} &  \vspace{-0.75cm}
     \begin{enumerate}[leftmargin=5.5mm]
         \item Quản trị viên truy cập trang Quản lý kết quả bài kiểm tra.
         \item Hệ thống hiển thị danh sách kết quả bài kiểm tra.
@@ -553,12 +602,12 @@
         \item Quản trị viên xóa hoặc chỉnh sửa dữ liệu kết quả nếu cần.
     \end{enumerate} \\
     \hline
-    \textbf{Alternative Flow} & 
+    \textbf{Alternative Flow} & \vspace{-0.75cm}
     \begin{itemize}[leftmargin=4mm]
         \item Quản trị viên có thể lọc danh sách kết quả theo loại bài kiểm tra.
     \end{itemize} \\
     \hline
-    \textbf{Exception Flow} & 
+    \textbf{Exception Flow} & \vspace{-0.75cm}
     \begin{enumerate}[leftmargin=5.5mm]
         \item Lỗi hệ thống: Hệ thống ghi lại lỗi và hiển thị thông báo lỗi.
     \end{enumerate} \\
